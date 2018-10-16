@@ -1,0 +1,188 @@
+Report for Institution Code ZUEC, Resource zuec-amp
+Usage stats for March 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 415
+Number of records retrieved in searches: 12273
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Ukraine ; Times: 1
+	Country: Brazil ; Times: 28
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 5
+	Country: France ; Times: 1
+	Country: United States ; Times: 365
+	Country: United Kingdom ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: Belgium ; Times: 6
+	Country: Argentina ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-06 ; Times: 23
+	Date: 2018-03-07 ; Times: 4
+	Date: 2018-03-16 ; Times: 5
+	Date: 2018-03-14 ; Times: 1
+	Date: 2018-03-12 ; Times: 1
+	Date: 2018-03-30 ; Times: 2
+	Date: 2018-03-19 ; Times: 17
+	Date: 2018-03-01 ; Times: 3
+	Date: 2018-03-02 ; Times: 34
+	Date: 2018-03-03 ; Times: 16
+	Date: 2018-03-04 ; Times: 2
+	Date: 2018-03-05 ; Times: 27
+	Date: 2018-03-28 ; Times: 30
+	Date: 2018-03-29 ; Times: 8
+	Date: 2018-03-08 ; Times: 1
+	Date: 2018-03-27 ; Times: 50
+	Date: 2018-03-24 ; Times: 1
+	Date: 2018-03-25 ; Times: 1
+	Date: 2018-03-26 ; Times: 101
+	Date: 2018-03-23 ; Times: 17
+	Date: 2018-03-20 ; Times: 28
+	Date: 2018-03-21 ; Times: 43
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Chiasmocleis specificepithet:gnoma " ; Times: 9
+	Query: "genus:Rhinella specificepithet:castaneotica" ; Times: 5
+	Query: "Hypsiboas bischoffi mappable:1" ; Times: 1
+	Query: "genus:Macrogenioglottus specificepithet:alipioi" ; Times: 5
+	Query: "genus:Batrachyla specificepithet:taeniata" ; Times: 2
+	Query: "Leptodactylus stenodema" ; Times: 1
+	Query: "genus:Aplastodiscus specificepithet:perviridis" ; Times: 6
+	Query: "genus:Oreobates specificepithet:quixensis" ; Times: 5
+	Query: "genus:Chiromantis specificepithet:rufescens" ; Times: 5
+	Query: "genus:Ceratophrys specificepithet:aurita" ; Times: 5
+	Query: "genus:Paratelmatobius specificepithet:poecilogaster" ; Times: 3
+	Query: "genus:Bokermannohyla specificepithet:circumdata" ; Times: 6
+	Query: "Hypsiboas polytaenius mappable:1" ; Times: 1
+	Query: "genus:Crossodactylus specificepithet:trachystomus" ; Times: 5
+	Query: "genus:Ameerega specificepithet:trivittata" ; Times: 5
+	Query: "21570" ; Times: 1
+	Query: "genus:Probreviceps specificepithet:macrodactylus" ; Times: 5
+	Query: "genus:Leptodactylus specificepithet:macrosternum" ; Times: 1
+	Query: "Hypsiboas crepitans mappable:1" ; Times: 1
+	Query: "Scinax duartei" ; Times: 1
+	Query: "catalognumber:5477" ; Times: 1
+	Query: "genus:Cycloramphus specificepithet:asper" ; Times: 5
+	Query: "genus:Hylodes specificepithet:asper" ; Times: 5
+	Query: "genus:Discoglossus specificepithet:pictus" ; Times: 2
+	Query: "16171" ; Times: 1
+	Query: "genus:Anomaloglossus" ; Times: 3
+	Query: "scientificname=pristimantis altamazonicus " ; Times: 1
+	Query: "genus:Melanophryniscus specificepithet:stelzneri" ; Times: 5
+	Query: "genus:Elachistocleis specificepithet:bicolor" ; Times: 5
+	Query: "genus:Brachycephalus specificepithet:ephippium" ; Times: 9
+	Query: "genus:Atelognathus specificepithet:patagonicus" ; Times: 5
+	Query: "genus:Mannophryne specificepithet:trinitatis" ; Times: 5
+	Query: "genus:Hypsiboas specificepithet:lundii" ; Times: 1
+	Query: "genus:Rhinella specificepithet:arenarum" ; Times: 5
+	Query: "genus:Isthmohyla specificepithet:pseudopuma" ; Times: 5
+	Query: "genus:Aparasphenodon specificepithet:brunoi" ; Times: 5
+	Query: "Ceratophrys joazeirensis" ; Times: 2
+	Query: "Hypsiboas semilineatus mappable:1" ; Times: 1
+	Query: "Melanophryniscus dorsalis" ; Times: 1
+	Query: "Potamotyphlus" ; Times: 1
+	Query: "Aparasphenodon arapapa" ; Times: 1
+	Query: "Hypsiboas albopunctatus mappable:1" ; Times: 1
+	Query: "Odontophrynus monachus" ; Times: 2
+	Query: "genus:Hemisus specificepithet:marmoratus" ; Times: 2
+	Query: "Hypsiboas prasinus mappable:1" ; Times: 1
+	Query: "genus:Hemiphractus specificepithet:fasciatus" ; Times: 9
+	Query: "specificepithet:taurinus " ; Times: 2
+	Query: "genus:Zachaenus specificepithet:parvulus" ; Times: 5
+	Query: "genus:Epidalea specificepithet:calamita" ; Times: 6
+	Query: "genus:Dendrophryniscus specificepithet:brevipollicatus" ; Times: 6
+	Query: "scientificname:pristimantis altamazonicus " ; Times: 2
+	Query: "Physalaemus fischeri" ; Times: 1
+	Query: "genus:Thoropa specificepithet:miliaris" ; Times: 5
+	Query: "Hypsiboas faber mappable:1" ; Times: 1
+	Query: "Ischnocnema manezinho" ; Times: 1
+	Query: "genus:Brachycephalus specificepithet:nodoterga" ; Times: 9
+	Query: "genus:Ischnocnema specificepithet:guentheri" ; Times: 5
+	Query: "genus:Phrynobatrachus specificepithet:krefftii" ; Times: 5
+	Query: "scientificname:Osteocephalus taurinus " ; Times: 2
+	Query: "genus:Limnomedusa specificepithet:macroglossa" ; Times: 6
+	Query: "Hypsiboas caingua mappable:1" ; Times: 1
+	Query: "Hypsiboas pardalis mappable:1" ; Times: 1
+	Query: "genus:Rhinella specificepithet:crucifer" ; Times: 5
+	Query: "genus:Ceratophrys specificepithet:joazeirensis" ; Times: 1
+	Query: "(Lithobates catesbeianus)" ; Times: 4
+	Query: "genus:Adenomera specificepithet:andreae" ; Times: 3
+	Query: "noblella vntype:specimen" ; Times: 6
+	Query: "genus:Thoropa specificepithet:taophora" ; Times: 5
+	Query: "genus:Proceratophrys specificepithet:boiei" ; Times: 5
+	Query: "genus:Odontophrynus specificepithet:americanus" ; Times: 5
+	Query: "Vitreorana uranoscopa" ; Times: 1
+	Query: "Hylomantis granulosa" ; Times: 1
+	Query: "genus:Bufo specificepithet:japonicus" ; Times: 6
+	Query: "class:amphibia stateprovince:&#34;Guancaste&#34; country:&#34;Costa Rica&#34;" ; Times: 2
+	Query: "ceratophrys joazeirensis" ; Times: 3
+	Query: "genus:Brachycephalus specificepithet:sp" ; Times: 9
+	Query: "genus:Ischnocnema specificepithet:manezinho" ; Times: 1
+	Query: "genus:Hadromophryne specificepithet:natalensis" ; Times: 5
+	Query: "genus:Chiasmocleis specificepithet:albopunctata" ; Times: 9
+	Query: "Hypsiboas punctatus mappable:1" ; Times: 1
+	Query: "genus:Atelopus specificepithet:pulcher" ; Times: 6
+	Query: "genus:Brachycephalus specificepithet:didactylus" ; Times: 1
+	Query: "Rhinella ornata" ; Times: 1
+	Query: "genus:Dendrobates specificepithet:tinctorius" ; Times: 2
+	Query: "genus:Cynops specificepithet:pyrrhogaster" ; Times: 5
+	Query: "genus:Pseudis specificepithet:paradoxa" ; Times: 5
+	Query: "genus:Incilius specificepithet:coniferus" ; Times: 2
+	Query: "catalognumber:20841" ; Times: 1
+	Query: "genus:Chiasmocleis specificepithet:capixaba" ; Times: 9
+	Query: "Hypsiboas albomarginatus mappable:1" ; Times: 1
+	Query: "Adelophryne mucronatus" ; Times: 1
+	Query: "catalognumber:7360" ; Times: 1
+	Query: "specificepithet=taurinus " ; Times: 24
+	Query: "Physalaemus lateristriga" ; Times: 1
+	Query: "genus:Incilius specificepithet:occidentalis" ; Times: 6
+	Query: "class:Amphibia catalognumber:1200" ; Times: 1
+	Query: "genus:Bufo specificepithet:gargarizans" ; Times: 2
+	Query: "genus:Frostius specificepithet:pernambucensis" ; Times: 5
+	Query: "Hypsiboas lundii mappable:1" ; Times: 1
+	Query: "genus:Allophryne specificepithet:ruthveni" ; Times: 5
+	Query: "genus:Oophaga specificepithet:pumilio" ; Times: 5
+	Query: "genus:Crossodactylus specificepithet:gaudichaudii" ; Times: 6
+	Query: "genus:Eleutherodactylus specificepithet:johnstonei" ; Times: 4
+	Query: "genus:Corythomantis specificepithet:greeningi" ; Times: 5
+	Query: "Hylodes lateristrigatus" ; Times: 1
+	Query: "genus:Leptodactylus specificepithet:validus" ; Times: 5
+	Query: "genus:Phyllomedusa specificepithet:bicolor" ; Times: 5
+	Query: "genus:Melanophryniscus specificepithet:moreirae" ; Times: 1
+	Query: "genus:Atelopus specificepithet:chiriquiensis" ; Times: 6
+	Query: "genus:Centrolene specificepithet:buckleyi" ; Times: 5
+	Query: "genus:Phyllodytes specificepithet:luteolus" ; Times: 5
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 1284 download events in this period)
+Total number of records downloaded: 108
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Belgium ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-03 ; Times: 1
+	Date: 2018-03-22 ; Times: 1
+	Date: 2018-03-23 ; Times: 2
+	Date: 2018-03-10 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Scinax duartei" ; Times: 1
+	Query: "eleutherodactylus antillensis" ; Times: 1
+	Query: "specificepithet:johnstonei genus:Eleutherodactylus" ; Times: 1
+	Query: "chiromantis rufescens" ; Times: 1
+	Query: "Ceratophrys" ; Times: 1
+	Query: "eleutherodactylus wightmanae" ; Times: 1
+
+
+End of report.
