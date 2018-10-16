@@ -1,0 +1,99 @@
+Report for Institution Code ZUEC, Resource zuec-amp
+Usage stats for April 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 37
+Number of records retrieved in searches: 459
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 12
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 2
+	Country: United States ; Times: 13
+	Country: Belgium ; Times: 2
+	Country: Argentina ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-12 ; Times: 1
+	Date: 2018-04-13 ; Times: 11
+	Date: 2018-04-02 ; Times: 4
+	Date: 2018-04-05 ; Times: 2
+	Date: 2018-04-04 ; Times: 3
+	Date: 2018-04-06 ; Times: 1
+	Date: 2018-04-19 ; Times: 2
+	Date: 2018-04-16 ; Times: 1
+	Date: 2018-04-22 ; Times: 1
+	Date: 2018-04-23 ; Times: 2
+	Date: 2018-04-30 ; Times: 1
+	Date: 2018-04-21 ; Times: 1
+	Date: 2018-04-20 ; Times: 1
+	Date: 2018-04-26 ; Times: 3
+	Date: 2018-04-25 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "charadrahyla" ; Times: 1
+	Query: "Allobates nidicola" ; Times: 1
+	Query: "Ranitomeya" ; Times: 2
+	Query: "hyla plicata" ; Times: 1
+	Query: "Ameerega trivittata" ; Times: 1
+	Query: "Charadrahyla taeniopus" ; Times: 1
+	Query: "DIAGLENA" ; Times: 1
+	Query: "genus:Ceratophrys specificepithet:joazeirensis" ; Times: 1
+	Query: "genus:Rhinella specificepithet:ornata" ; Times: 1
+	Query: "Pseudopaludicola ameghini" ; Times: 2
+	Query: "martinezi" ; Times: 1
+	Query: "specificepithet:Montezumae family:Ranidae country:&#34;Mexico&#34;" ; Times: 2
+	Query: "Bokermannohyla claresignata" ; Times: 2
+	Query: "Rhinella granulosa" ; Times: 4
+	Query: "claresignata" ; Times: 1
+	Query: "Physalaemus aguirrei" ; Times: 2
+	Query: "frostius" ; Times: 2
+	Query: "Pseudis platensis" ; Times: 1
+	Query: "joazeirensis" ; Times: 1
+	Query: "13989" ; Times: 1
+	Query: "Bokermannohyla oxente" ; Times: 1
+	Query: "pseudis minuta" ; Times: 1
+	Query: "Pristimantis dundeei" ; Times: 1
+	Query: "genus:Hypsiboas specificepithet:pulchellus" ; Times: 1
+	Query: "family:Hylidae stateprovince:&#34;Pando&#34; country:&#34;Bolivia&#34;" ; Times: 1
+	Query: "specificepithet:montezumae family:Ranidae" ; Times: 1
+	Query: "order:anura locality:India" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 15 (out of 1359 download events in this period)
+Total number of records downloaded: 175
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-03 ; Times: 1
+	Date: 2018-04-16 ; Times: 1
+	Date: 2018-04-04 ; Times: 2
+	Date: 2018-04-23 ; Times: 8
+	Date: 2018-04-22 ; Times: 1
+	Date: 2018-04-20 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "caracara" ; Times: 1
+	Query: "ambystoma macrodactylum" ; Times: 1
+	Query: "specificepithet:Montezumae family:Ranidae country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Anaxyrus punctatus" ; Times: 1
+	Query: "Gastrophryne olivacea" ; Times: 1
+	Query: "Spea multiplicata" ; Times: 1
+	Query: "Rhinophrynus dorsalis" ; Times: 1
+	Query: "Rhinella marina" ; Times: 2
+	Query: "Gastrophryne carolinensis" ; Times: 2
+	Query: "specificepithet:montezumae family:Ranidae" ; Times: 1
+	Query: "Smilisca baudinii" ; Times: 1
+	Query: "Hypopachus variolosus" ; Times: 1
+	Query: "Spea bombifrons" ; Times: 1
+
+
+End of report.
