@@ -1,0 +1,198 @@
+Report for Institution Code ZUEC, Resource zuec-amp
+Usage stats for May 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 244
+Number of records retrieved in searches: 7998
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 38
+	Country: Italy ; Times: 1
+	Country: Chile ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 2
+	Country: United States ; Times: 193
+	Country: Peru ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-28 ; Times: 1
+	Date: 2018-05-29 ; Times: 7
+	Date: 2018-05-21 ; Times: 2
+	Date: 2018-05-22 ; Times: 3
+	Date: 2018-05-23 ; Times: 67
+	Date: 2018-05-24 ; Times: 58
+	Date: 2018-05-25 ; Times: 2
+	Date: 2018-05-26 ; Times: 1
+	Date: 2018-05-27 ; Times: 3
+	Date: 2018-05-06 ; Times: 6
+	Date: 2018-05-07 ; Times: 3
+	Date: 2018-05-04 ; Times: 1
+	Date: 2018-05-05 ; Times: 2
+	Date: 2018-05-08 ; Times: 4
+	Date: 2018-05-09 ; Times: 1
+	Date: 2018-05-31 ; Times: 3
+	Date: 2018-05-30 ; Times: 1
+	Date: 2018-05-15 ; Times: 1
+	Date: 2018-05-14 ; Times: 3
+	Date: 2018-05-17 ; Times: 7
+	Date: 2018-05-16 ; Times: 58
+	Date: 2018-05-11 ; Times: 3
+	Date: 2018-05-10 ; Times: 3
+	Date: 2018-05-13 ; Times: 1
+	Date: 2018-05-12 ; Times: 1
+	Date: 2018-05-18 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:rufescens genus:Hylophorbus institutioncode:ZUEC" ; Times: 3
+	Query: "specificepithet:cryptotympanum genus:Cophixalus institutioncode:ZUEC" ; Times: 3
+	Query: "specificepithet:nasuta genus:Megophrys institutioncode:ZUEC" ; Times: 3
+	Query: "specificepithet:calamita genus:Epidalea institutioncode:ZUEC" ; Times: 3
+	Query: "specificepithet:podiciferus genus:Craugastor institutioncode:ZUEC" ; Times: 3
+	Query: "Pseudopaludicola mystacalis mappable:1" ; Times: 1
+	Query: "Chiasmocleis ventrimaculata" ; Times: 2
+	Query: "specificepithet:taurinus genus:Osteocephalus institutioncode:ZUEC" ; Times: 3
+	Query: "specificepithet:geayi genus:Ctenophryne institutioncode:ZUEC" ; Times: 3
+	Query: "specificepithet:holbrookii genus:Scaphiopus institutioncode:ZUEC" ; Times: 3
+	Query: "subpunctatus" ; Times: 1
+	Query: "specificepithet:pictus genus:Discoglossus institutioncode:ZUEC" ; Times: 3
+	Query: "Hylodes phyllodes" ; Times: 3
+	Query: "specificepithet:pipa genus:Pipa institutioncode:ZUEC" ; Times: 3
+	Query: "genus:Leptodactylus specificepithet:macrosternum" ; Times: 5
+	Query: "Allophryne ruthveni hassex:1" ; Times: 4
+	Query: "Hyla plicata" ; Times: 1
+	Query: "Pristimantis dundeei" ; Times: 1
+	Query: "Hylodes meridionalis" ; Times: 3
+	Query: "Scinax caissara" ; Times: 1
+	Query: "Bufo japonicus" ; Times: 1
+	Query: "specificepithet:lineatus genus:Lithodytes institutioncode:ZUEC" ; Times: 3
+	Query: "Bokermannohyla alvarengai" ; Times: 1
+	Query: "specificepithet:boiei genus:Proceratophrys institutioncode:ZUEC" ; Times: 3
+	Query: "specificepithet:orientalis genus:Bombina institutioncode:ZUEC" ; Times: 3
+	Query: "genus:Caecilia specificepithet:mertensi" ; Times: 1
+	Query: "Charadrahyla taeniopus" ; Times: 1
+	Query: "specificepithet:taeniata genus:Batrachyla institutioncode:ZUEC" ; Times: 3
+	Query: "Thoropa taophora hassex:1" ; Times: 3
+	Query: "Cycloramphus boraceiensis" ; Times: 1
+	Query: "specificepithet:marina genus:Rhinella institutioncode:ZUEC" ; Times: 3
+	Query: "specificepithet:ventrimaculata genus:Chiasmocleis institutioncode:ZUEC" ; Times: 3
+	Query: "Megaelosia apuana" ; Times: 1
+	Query: "specificepithet:perviridis genus:Aplastodiscus institutioncode:ZUEC" ; Times: 4
+	Query: "genus:Leptodactylus specificepithet:flavopictus" ; Times: 1
+	Query: "specificepithet:incrassatus genus:Stereocyclops institutioncode:ZUEC" ; Times: 3
+	Query: "specificepithet:vittatus genus:Phyllobates institutioncode:ZUEC" ; Times: 3
+	Query: "specificepithet:guentheri genus:Ischnocnema institutioncode:ZUEC" ; Times: 3
+	Query: "Dendropsophus haddadi" ; Times: 5
+	Query: "specificepithet:cornuta genus:Ceratophrys institutioncode:ZUEC" ; Times: 3
+	Query: "specificepithet:parviceps genus:Dendropsophus institutioncode:ZUEC" ; Times: 3
+	Query: "specificepithet:ruthveni genus:Allophryne institutioncode:ZUEC" ; Times: 4
+	Query: "Hypopachus ustus" ; Times: 1
+	Query: "genus:Pleurodema specificepithet:diplolister" ; Times: 1
+	Query: "specificepithet:nasus genus:Hylodes institutioncode:ZUEC" ; Times: 3
+	Query: "specificepithet:ocellata genus:Rhinella institutioncode:ZUEC" ; Times: 3
+	Query: "Hylodes otavioi" ; Times: 1
+	Query: "Scinax nasicus mappable:1" ; Times: 1
+	Query: "Pseudoeurycea altamontana" ; Times: 1
+	Query: "specificepithet:dorsalis genus:Rhinophrynus institutioncode:ZUEC" ; Times: 3
+	Query: "specificepithet:pustulosus genus:Engystomops institutioncode:ZUEC" ; Times: 3
+	Query: "specificepithet:truei genus:Ascaphus institutioncode:ZUEC" ; Times: 3
+	Query: "Rhinella ocellata" ; Times: 3
+	Query: "catalognumber:9336" ; Times: 1
+	Query: "specificepithet:cuvieri genus:Physalaemus institutioncode:ZUEC" ; Times: 3
+	Query: "guar" ; Times: 1
+	Query: "specificepithet:ocellatus genus:Leptodactylus institutioncode:ZUEC" ; Times: 3
+	Query: "specificepithet:punctatus genus:Anaxyrus institutioncode:ZUEC" ; Times: 4
+	Query: "Chthonerpeton indistinctum" ; Times: 1
+	Query: "specificepithet:fasciatus genus:Hypsiboas institutioncode:ZUEC" ; Times: 3
+	Query: "specificepithet:gargarizans genus:Bufo institutioncode:ZUEC" ; Times: 3
+	Query: "specificepithet:japonicus genus:Bufo institutioncode:ZUEC" ; Times: 3
+	Query: "Pseudis platensis mappable:1" ; Times: 1
+	Query: "specificepithet:femoralis genus:Allobates institutioncode:ZUEC" ; Times: 4
+	Query: "specificepithet:callidryas genus:Agalychnis institutioncode:ZUEC" ; Times: 5
+	Query: "limnomedusa macroglossa" ; Times: 2
+	Query: "Phyllomedusa rohdei mappable:1" ; Times: 1
+	Query: "genus:Phyllomedusa specificepithet:tetraploidea" ; Times: 1
+	Query: "specificepithet:catesbeianus genus:Lithobates mappable:1 year&gt;=2000" ; Times: 1
+	Query: "specificepithet:venulosus genus:Trachycephalus institutioncode:ZUEC" ; Times: 3
+	Query: "specificepithet:ovalis genus:Elachistocleis institutioncode:ZUEC" ; Times: 3
+	Query: "catalognumber:6490 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Melanophryniscus moreirae" ; Times: 1
+	Query: "genus:Siphonops specificepithet:paulensis" ; Times: 3
+	Query: "Dendropsophus seniculus" ; Times: 2
+	Query: "genus:Ranitomeya specificepithet:ventrimaculata" ; Times: 1
+	Query: "catalognumber:9932" ; Times: 1
+	Query: "specificepithet:paradoxa genus:Pseudis institutioncode:ZUEC" ; Times: 3
+	Query: "specificepithet:nigromaculatus genus:Pelophylax institutioncode:ZUEC" ; Times: 3
+	Query: "specificepithet:multiplicata genus:Spea institutioncode:ZUEC" ; Times: 3
+	Query: "specificepithet:melanonotus genus:Leptodactylus institutioncode:ZUEC" ; Times: 3
+	Query: "specificepithet:ruber genus:Scinax institutioncode:ZUEC" ; Times: 3
+	Query: "specificepithet:hypochondrialis genus:Phyllomedusa institutioncode:ZUEC" ; Times: 3
+	Query: "catalognumber:9219" ; Times: 1
+	Query: "specificepithet:cultripes genus:Pelobates institutioncode:ZUEC" ; Times: 3
+	Query: "specificepithet:marmoratus genus:Hemisus institutioncode:ZUEC" ; Times: 3
+	Query: "specificepithet:olivacea genus:Gastrophryne institutioncode:ZUEC" ; Times: 3
+	Query: "specificepithet:stelzneri genus:Melanophryniscus institutioncode:ZUEC" ; Times: 3
+	Query: "specificepithet:taophora genus:Thoropa institutioncode:ZUEC" ; Times: 3
+	Query: "Dermatonotus muelleri mappable:1" ; Times: 1
+	Query: "specificepithet:krefftii genus:Phrynobatrachus institutioncode:ZUEC" ; Times: 3
+	Query: "specificepithet:ephippium genus:Brachycephalus institutioncode:ZUEC" ; Times: 3
+	Query: "genus:Rhinella specificepithet:mirandaribeiroi" ; Times: 5
+	Query: "genus:Brachycephalus specificepithet:pernix" ; Times: 2
+	Query: "genus:Phyllomedusa specificepithet:bicolor" ; Times: 1
+	Query: "genus:Chthonerpeton specificepithet:indistinctum" ; Times: 2
+	Query: "Siphonops annulatus" ; Times: 1
+	Query: "specificepithet:bufo genus:Bufo institutioncode:ZUEC" ; Times: 3
+	Query: "Bolitoglossa adspersa" ; Times: 1
+	Query: "genus:Elachistocleis specificepithet:cesarii" ; Times: 2
+	Query: "Pseudopaludicola ibisoroca" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 18 (out of 1178 download events in this period)
+Total number of records downloaded: 49
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Spain ; Times: 8
+	Country: Mexico ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-06 ; Times: 1
+	Date: 2018-05-07 ; Times: 1
+	Date: 2018-05-17 ; Times: 2
+	Date: 2018-05-16 ; Times: 1
+	Date: 2018-05-02 ; Times: 1
+	Date: 2018-05-13 ; Times: 2
+	Date: 2018-05-14 ; Times: 2
+	Date: 2018-05-18 ; Times: 1
+	Date: 2018-05-08 ; Times: 1
+	Date: 2018-05-28 ; Times: 1
+	Date: 2018-05-23 ; Times: 3
+	Date: 2018-05-26 ; Times: 1
+	Date: 2018-05-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Chiropterotriton chiropterus" ; Times: 2
+	Query: "Spea bombifrons" ; Times: 1
+	Query: "Plethodon vehiculum" ; Times: 1
+	Query: "Ambystoma mexicanum" ; Times: 1
+	Query: "Hyla plicata" ; Times: 1
+	Query: "Plethodon virginia" ; Times: 1
+	Query: "Cynops pyrrhogaster" ; Times: 1
+	Query: "(Phrynopus OR Psychrophrynella OR Bryophryne OR Microkayla)" ; Times: 1
+	Query: "Bolitoglossa adspersa" ; Times: 1
+	Query: "class:amphibia country:&#34;Guatemala&#34;" ; Times: 1
+	Query: "specificepithet:punctatus genus:Anaxyrus" ; Times: 1
+	Query: "Hypopachus ustus" ; Times: 1
+	Query: "class:amphibia country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "Charadrahyla taeniopus" ; Times: 1
+	Query: "Rhinophrynus dorsalis" ; Times: 1
+	Query: "Hypopachus variolosus" ; Times: 1
+	Query: "Pseudoeurycea altamontana" ; Times: 1
+
+
+End of report.
