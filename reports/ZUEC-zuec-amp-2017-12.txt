@@ -1,0 +1,91 @@
+Report for Institution Code ZUEC, Resource zuec-amp
+Usage stats for December 2017, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 42
+Number of records retrieved in searches: 1265
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 8
+	Country: Mexico ; Times: 2
+	Country: Norway ; Times: 3
+	Country: Finland ; Times: 1
+	Country: United States ; Times: 22
+	Country: French Guiana ; Times: 2
+	Country: Germany ; Times: 2
+	Country: Venezuela ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-29 ; Times: 3
+	Date: 2017-12-04 ; Times: 3
+	Date: 2017-12-31 ; Times: 2
+	Date: 2017-12-21 ; Times: 1
+	Date: 2017-12-05 ; Times: 1
+	Date: 2017-12-17 ; Times: 1
+	Date: 2017-12-12 ; Times: 20
+	Date: 2017-12-13 ; Times: 1
+	Date: 2017-12-10 ; Times: 2
+	Date: 2017-12-18 ; Times: 4
+	Date: 2017-12-19 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Proceratophrys boiei mappable:1" ; Times: 1
+	Query: "genus:Phyllobates specificepithet:vittatus" ; Times: 1
+	Query: "Ceratophrys aurita mappable:1" ; Times: 2
+	Query: "Bufonidae institutioncode:ZUEC" ; Times: 2
+	Query: "genus:Trachycephalus specificepithet:resinifictrix" ; Times: 1
+	Query: "genus:Allobates specificepithet:olfersioides" ; Times: 1
+	Query: "Dendrophryniscus brevipollicatus mappable:1" ; Times: 2
+	Query: "Corythomantis greeningi mappable:1" ; Times: 2
+	Query: "genus:Ameerega specificepithet:flavopicta" ; Times: 3
+	Query: "Odontophrynus americanus mappable:1" ; Times: 1
+	Query: "Osteocephalus taurinus mappable:1" ; Times: 1
+	Query: "Synapturanus" ; Times: 3
+	Query: "genus:Aplastodiscus specificepithet:cavicola" ; Times: 2
+	Query: "Phyllodytes luteolus mappable:1" ; Times: 1
+	Query: "family:Hylidae locality:Rayon" ; Times: 1
+	Query: "Melanophryniscus stelzneri mappable:1" ; Times: 2
+	Query: "catalognumber:642" ; Times: 1
+	Query: "Flectonotus fissilis mappable:1" ; Times: 2
+	Query: "Brachycephalus ephippium mappable:1" ; Times: 2
+	Query: "genus:Phyllomedusa specificepithet:burmeisteri" ; Times: 1
+	Query: "jaguar" ; Times: 1
+	Query: "Aparasphenodon brunoi mappable:1" ; Times: 2
+	Query: "genus:Hypsiboas specificepithet:lundii" ; Times: 1
+	Query: "genus:Hypsiboas specificepithet:cipoensis" ; Times: 1
+	Query: "genus:Trachycephalus specificepithet:typhonius" ; Times: 2
+	Query: "Proceratophrys concavitympanum" ; Times: 1
+	Query: "22094" ; Times: 1
+	Query: "genus:Hypsiboas specificepithet:calcaratus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 10 (out of 674 download events in this period)
+Total number of records downloaded: 1455
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-07 ; Times: 2
+	Date: 2017-12-29 ; Times: 1
+	Date: 2017-12-20 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen class:Amphibia country:&#34;Bolivia&#34; mappable:1" ; Times: 1
+	Query: "Incilius occidentalis" ; Times: 1
+	Query: "class:Amphibia country:&#34;Bolivia&#34; year &gt;= 1979 year &lt;= 2018 mappable:1" ; Times: 3
+	Query: "class:Amphibia country:&#34;Bolivia&#34; year &gt;= 1979 year &lt;= 2018 basisofrecord:PreservedSpecimen mappable:1" ; Times: 1
+	Query: "class:Amphibia country:&#34;Bolivia&#34; mappable:1" ; Times: 1
+	Query: "class:Amphibia country:&#34;Bolivia&#34; basisofrecord:PreservedSpecimen mappable:1" ; Times: 1
+	Query: "Incilius marmoreus" ; Times: 1
+	Query: "Bufonidae institutioncode:ZUEC" ; Times: 1
+
+
+End of report.
