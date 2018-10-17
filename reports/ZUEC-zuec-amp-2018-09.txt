@@ -1,0 +1,103 @@
+Report for Institution Code ZUEC, Resource zuec-amp
+Usage stats for September 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 94
+Number of records retrieved in searches: 1413
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 74
+	Country: United States ; Times: 10
+	Country: Mexico ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Peru ; Times: 2
+	Country: Argentina ; Times: 3
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-19 ; Times: 6
+	Date: 2018-09-11 ; Times: 6
+	Date: 2018-09-17 ; Times: 1
+	Date: 2018-09-27 ; Times: 6
+	Date: 2018-09-13 ; Times: 2
+	Date: 2018-09-24 ; Times: 1
+	Date: 2018-09-10 ; Times: 1
+	Date: 2018-09-26 ; Times: 2
+	Date: 2018-09-12 ; Times: 1
+	Date: 2018-09-06 ; Times: 1
+	Date: 2018-09-14 ; Times: 4
+	Date: 2018-09-22 ; Times: 2
+	Date: 2018-09-05 ; Times: 1
+	Date: 2018-09-01 ; Times: 1
+	Date: 2018-09-18 ; Times: 1
+	Date: 2018-09-28 ; Times: 53
+	Date: 2018-09-04 ; Times: 1
+	Date: 2018-09-21 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "locality:caparao" ; Times: 4
+	Query: "catalognumber:10678" ; Times: 1
+	Query: "phrynopus peruanus" ; Times: 1
+	Query: "Crossodactylus caramaschii" ; Times: 5
+	Query: "specificepithet:altamontana genus:pseudoeurycea" ; Times: 1
+	Query: "Atelopus spumarius" ; Times: 2
+	Query: "Hylodes heyeri" ; Times: 1
+	Query: "pseudis minuta" ; Times: 3
+	Query: "Crossodactylus timbuhy" ; Times: 1
+	Query: "Limnomedusa macroglossa" ; Times: 1
+	Query: "genus:Adenomera specificepithet:andreae" ; Times: 1
+	Query: "vitreorana" ; Times: 1
+	Query: "Noblella" ; Times: 1
+	Query: "Physalaemus henselii" ; Times: 1
+	Query: "genus:Atelopus specificepithet:hoogmoedi" ; Times: 1
+	Query: "genus:Hylodes specificepithet:heyeri" ; Times: 1
+	Query: "Hylodes cardosoi" ; Times: 55
+	Query: "vitreorana uranoscopa" ; Times: 1
+	Query: "genus:Proceratophrys specificepithet:moratoi" ; Times: 1
+	Query: "crossodactylus timbuhy" ; Times: 1
+	Query: "Vitreorana uranoscopa" ; Times: 1
+	Query: "&#34;Melanophryniscus atroluteus &#34;" ; Times: 1
+	Query: "Ischnocnema juipoca" ; Times: 1
+	Query: "Engystomops freibergi" ; Times: 2
+	Query: "dendropsophus parviceps" ; Times: 1
+	Query: "Euparkerella cochranae" ; Times: 1
+	Query: "jaguar" ; Times: 1
+	Query: "genus:Dendrobates specificepithet:tinctorius" ; Times: 1
+	Query: "gbifdatasetid:186605f8-4f62-4e3a-be58-c6b3b0bc47be" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 10 (out of 846 download events in this period)
+Total number of records downloaded: 336
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Guatemala ; Times: 1
+	Country: Spain ; Times: 1
+	Country: Mexico ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-24 ; Times: 1
+	Date: 2018-09-26 ; Times: 1
+	Date: 2018-09-06 ; Times: 4
+	Date: 2018-09-04 ; Times: 1
+	Date: 2018-09-19 ; Times: 1
+	Date: 2018-09-18 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Smilisca baudinii" ; Times: 1
+	Query: "eleutherodactylus" ; Times: 1
+	Query: "specificepithet:vehiculum genus:plethodon" ; Times: 1
+	Query: "Lithobates catesbeianus" ; Times: 1
+	Query: "distance(location,geopoint(-12.006230714144326,-37.878616699745066))&lt;100000" ; Times: 1
+	Query: "huehuetenango anura" ; Times: 1
+	Query: "Engystomops pustulosus" ; Times: 1
+	Query: "dendropsophus parviceps" ; Times: 2
+	Query: "Leptodactylus melanonotus" ; Times: 1
+
+
+End of report.
