@@ -1,0 +1,135 @@
+Report for Institution Code ZUEC, Resource zuec-amp
+Usage stats for October 2018, generated on 2018/11/01
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 83
+Number of records retrieved in searches: 1340
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 22
+	Country: Canada ; Times: 1
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 6
+	Country: Panama ; Times: 1
+	Country: Costa Rica ; Times: 3
+	Country: United States ; Times: 14
+	Country: Paraguay ; Times: 1
+	Country: Sweden ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Colombia ; Times: 29
+	Country: Belgium ; Times: 1
+	Country: Kenya ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-22 ; Times: 3
+	Date: 2018-10-23 ; Times: 26
+	Date: 2018-10-20 ; Times: 2
+	Date: 2018-10-26 ; Times: 1
+	Date: 2018-10-01 ; Times: 2
+	Date: 2018-10-02 ; Times: 2
+	Date: 2018-10-03 ; Times: 1
+	Date: 2018-10-17 ; Times: 2
+	Date: 2018-10-29 ; Times: 2
+	Date: 2018-10-04 ; Times: 1
+	Date: 2018-10-09 ; Times: 9
+	Date: 2018-10-16 ; Times: 6
+	Date: 2018-10-19 ; Times: 1
+	Date: 2018-10-18 ; Times: 7
+	Date: 2018-10-25 ; Times: 1
+	Date: 2018-10-31 ; Times: 2
+	Date: 2018-10-24 ; Times: 5
+	Date: 2018-10-11 ; Times: 3
+	Date: 2018-10-15 ; Times: 6
+	Date: 2018-10-27 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "dendropsophus haraldschultzi" ; Times: 1
+	Query: "DENDROPSOPHUS BOKERMANNI" ; Times: 1
+	Query: "18237" ; Times: 1
+	Query: "genus:Siphonops specificepithet:annulatus" ; Times: 1
+	Query: "genus:Adenomera specificepithet:bokermanni" ; Times: 1
+	Query: "Phyllomedusa bicolor" ; Times: 9
+	Query: "genus:Scinax specificepithet:squalirostris" ; Times: 1
+	Query: "Elachistocleis cesarii" ; Times: 2
+	Query: "catalognumber:4115" ; Times: 1
+	Query: "Scinax alter" ; Times: 1
+	Query: "Crossodactylus timbuhy" ; Times: 1
+	Query: "Scinax x-signatus" ; Times: 1
+	Query: "Bolitoglossa madeira" ; Times: 1
+	Query: "dendropsophus bokermanni" ; Times: 1
+	Query: "(oreobates) institutioncode:ZUEC" ; Times: 1
+	Query: "Allobates marchesianus" ; Times: 4
+	Query: "Dendropsophus brevifrons" ; Times: 1
+	Query: "specificepithet:boiei genus:Proceratophrys" ; Times: 1
+	Query: "Ameerega braccata" ; Times: 1
+	Query: "Craugastor melanostictus" ; Times: 3
+	Query: "genus:Proceratophrys specificepithet:moratoi" ; Times: 1
+	Query: "Dendropsophus parviceps" ; Times: 2
+	Query: "Aplastodiscus eugenioi" ; Times: 1
+	Query: "genus:Bokermannohyla specificepithet:martinsi" ; Times: 1
+	Query: "genus:Phyllomedusa specificepithet:distincta" ; Times: 1
+	Query: "genus:Trachycephalus specificepithet:nigromaculatus" ; Times: 1
+	Query: "Pristimantis acuminatus" ; Times: 2
+	Query: "Thoropa petropolitana" ; Times: 1
+	Query: "ceratophrys joazeirensis" ; Times: 1
+	Query: "genus:Itapotihyla specificepithet:langsdorffii" ; Times: 1
+	Query: "Aparasphenodon bokermanni" ; Times: 2
+	Query: "22350" ; Times: 1
+	Query: "Chiasmocleis bassleri" ; Times: 2
+	Query: "22061" ; Times: 1
+	Query: "specificepithet:johnstonei genus:eleutherodactylus year &gt;= 2004" ; Times: 1
+	Query: "dendropsophus brevifrons" ; Times: 1
+	Query: "Hylodes lateristrigatus" ; Times: 1
+	Query: "Incilius occidentalis" ; Times: 1
+	Query: "catalognumber:4470" ; Times: 1
+	Query: "genus:Dendropsophus specificepithet:anceps" ; Times: 1
+	Query: "genus:Leptodactylus specificepithet:furnarius" ; Times: 1
+	Query: "specificepithet:boiei genus:Proceratophrys year &gt;= 1990" ; Times: 1
+	Query: "Rhinella ornata" ; Times: 1
+	Query: "Ranitomeya ventrimaculata" ; Times: 1
+	Query: "oreobates crepitans" ; Times: 2
+	Query: "Crossodactylus dispar" ; Times: 2
+	Query: "Phyllomedusa tetraploidea" ; Times: 1
+	Query: "genus:Trachycephalus specificepithet:typhonius" ; Times: 1
+	Query: "Hypsiboas cinerascens" ; Times: 2
+	Query: "Oreobates quixensis" ; Times: 4
+	Query: "hylodes asper" ; Times: 1
+	Query: "dendropsophus koechlini" ; Times: 1
+	Query: "melanophryniscus moreirae" ; Times: 7
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 10 (out of 1300 download events in this period)
+Total number of records downloaded: 1758
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: Colombia ; Times: 2
+	Country: Mexico ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-30 ; Times: 1
+	Date: 2018-10-29 ; Times: 1
+	Date: 2018-10-12 ; Times: 2
+	Date: 2018-10-10 ; Times: 2
+	Date: 2018-10-17 ; Times: 1
+	Date: 2018-10-16 ; Times: 1
+	Date: 2018-10-15 ; Times: 1
+	Date: 2018-10-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Plectrohyla matudai" ; Times: 2
+	Query: "Isthmohyla" ; Times: 1
+	Query: "Craugastor" ; Times: 1
+	Query: "ambystoma mexicanum" ; Times: 1
+	Query: "country:&#34;COLOMBIA&#34;" ; Times: 1
+	Query: "Hypsiboas" ; Times: 1
+	Query: "incilius bocourti" ; Times: 1
+	Query: "ambystoma macrodactylum" ; Times: 1
+	Query: "Dendropsophus parviceps" ; Times: 1
+
+
+End of report.
