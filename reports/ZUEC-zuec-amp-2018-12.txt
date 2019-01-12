@@ -1,0 +1,115 @@
+Report for Institution Code ZUEC, Resource zuec-amp
+Usage stats for December 2018, generated on 2019/01/12
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 60
+Number of records retrieved in searches: 1852
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 32
+	Country: Netherlands ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 1
+	Country: Philippines ; Times: 1
+	Country: United States ; Times: 15
+	Country: Germany ; Times: 3
+	Country: Colombia ; Times: 1
+	Country: Belgium ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-12 ; Times: 3
+	Date: 2018-12-08 ; Times: 1
+	Date: 2018-12-02 ; Times: 1
+	Date: 2018-12-03 ; Times: 15
+	Date: 2018-12-20 ; Times: 3
+	Date: 2018-12-06 ; Times: 2
+	Date: 2018-12-24 ; Times: 3
+	Date: 2018-12-18 ; Times: 3
+	Date: 2018-12-31 ; Times: 1
+	Date: 2018-12-09 ; Times: 1
+	Date: 2018-12-15 ; Times: 1
+	Date: 2018-12-19 ; Times: 2
+	Date: 2018-12-17 ; Times: 6
+	Date: 2018-12-16 ; Times: 3
+	Date: 2018-12-11 ; Times: 9
+	Date: 2018-12-04 ; Times: 2
+	Date: 2018-12-07 ; Times: 3
+	Date: 2018-12-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Megaelosia year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "catalognumber:12139" ; Times: 1
+	Query: "Vitreorana eurygnatha mappable:1" ; Times: 1
+	Query: "(noblella peruviana)" ; Times: 3
+	Query: "Proceratophrys boiei mappable:1" ; Times: 1
+	Query: "genus:Phyllobates specificepithet:vittatus" ; Times: 1
+	Query: "Rhinella abei" ; Times: 2
+	Query: "Sphaenorhynchus caramaschii" ; Times: 1
+	Query: "Phyllomedusa bicolor" ; Times: 1
+	Query: "Ololygon rizibilis" ; Times: 1
+	Query: "genus:Phyllomedusa specificepithet:iheringii" ; Times: 1
+	Query: "specificepithet:montezumae family:ranidae" ; Times: 2
+	Query: "genus:Trachycephalus specificepithet:resinifictrix" ; Times: 1
+	Query: "phrynopus peruanus" ; Times: 1
+	Query: "genus:Phasmahyla specificepithet:cochranae" ; Times: 1
+	Query: "Itapotihyla langsdorffii" ; Times: 1
+	Query: "Phyllomedusa distincta" ; Times: 3
+	Query: "Macrogenioglottus alipioi mappable:1" ; Times: 1
+	Query: "Haddadus binotatus mappable:1" ; Times: 12
+	Query: "specificepithet:ohausi genus:Cycloramphus" ; Times: 1
+	Query: "Pithecopus nordestinus" ; Times: 1
+	Query: "genus:Ameerega specificepithet:trivittata" ; Times: 1
+	Query: "ceratophrys aurita" ; Times: 1
+	Query: "Crossodactylus year &gt;= 1980 year &lt;= 2018" ; Times: 2
+	Query: "genus:Phyllomedusa specificepithet:bicolor" ; Times: 2
+	Query: "Limnomedusa year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "Pseudis tocantins" ; Times: 1
+	Query: "Leptodactylus labyrinthicus" ; Times: 1
+	Query: "jaguar" ; Times: 1
+	Query: "genus:Dendrobates specificepithet:tinctorius" ; Times: 1
+	Query: "Vitreorana uranoscopa mappable:1" ; Times: 2
+	Query: "genus:Phrynopus family:Craugastoridae order:Anura class:Amphibia" ; Times: 1
+	Query: "Phyllomedusa tetraploidea" ; Times: 2
+	Query: "anaxyrus boreas halophilus" ; Times: 2
+	Query: "Limnomedusa" ; Times: 2
+	Query: "genus:Elachistocleis specificepithet:cesarii" ; Times: 1
+	Query: "Myersiella microps mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 10 (out of 809 download events in this period)
+Total number of records downloaded: 297
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 5
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-03 ; Times: 2
+	Date: 2018-12-22 ; Times: 2
+	Date: 2018-12-19 ; Times: 1
+	Date: 2018-12-06 ; Times: 1
+	Date: 2018-12-10 ; Times: 3
+	Date: 2018-12-13 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Amphibia stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Lithobates catesbeianus" ; Times: 1
+	Query: "Eleutherodactylus minutus" ; Times: 1
+	Query: "Phyllomedusa distincta" ; Times: 1
+	Query: "gastrotheca" ; Times: 1
+	Query: "Megophryidae" ; Times: 2
+	Query: "specificepithet:montezumae family:ranidae" ; Times: 1
+	Query: "ambystoma macrodactylum" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Colorado&#34;" ; Times: 1
+
+
+End of report.
