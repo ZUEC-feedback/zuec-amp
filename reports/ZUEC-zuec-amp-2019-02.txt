@@ -1,0 +1,110 @@
+Report for Institution Code ZUEC, Resource zuec-amp
+Usage stats for February 2019, generated on 2019/03/18
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 39
+Number of records retrieved in searches: 667
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 14
+	Country: United States ; Times: 7
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 3
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Colombia ; Times: 5
+	Country: Belgium ; Times: 3
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-02 ; Times: 3
+	Date: 2019-02-03 ; Times: 2
+	Date: 2019-02-04 ; Times: 1
+	Date: 2019-02-10 ; Times: 1
+	Date: 2019-02-16 ; Times: 1
+	Date: 2019-02-14 ; Times: 3
+	Date: 2019-02-22 ; Times: 2
+	Date: 2019-02-05 ; Times: 3
+	Date: 2019-02-12 ; Times: 1
+	Date: 2019-02-25 ; Times: 4
+	Date: 2019-02-13 ; Times: 3
+	Date: 2019-02-27 ; Times: 1
+	Date: 2019-02-07 ; Times: 1
+	Date: 2019-02-17 ; Times: 2
+	Date: 2019-02-23 ; Times: 1
+	Date: 2019-02-19 ; Times: 1
+	Date: 2019-02-18 ; Times: 1
+	Date: 2019-02-08 ; Times: 2
+	Date: 2019-02-28 ; Times: 2
+	Date: 2019-02-01 ; Times: 2
+	Date: 2019-02-21 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Oophaga histrionica" ; Times: 1
+	Query: "Atelopus spumarius" ; Times: 2
+	Query: "Hyla meridionalis" ; Times: 1
+	Query: "Smilisca dentata" ; Times: 1
+	Query: "charadricola" ; Times: 1
+	Query: "Rhinophrynus dorsalis vntype:specimen country:&#34;mexico&#34;" ; Times: 2
+	Query: "genus:Physalaemus specificepithet:cicada" ; Times: 1
+	Query: "catalognumber:1688" ; Times: 2
+	Query: "jequié" ; Times: 1
+	Query: "sui" ; Times: 1
+	Query: "phyllomedusa bicolor" ; Times: 2
+	Query: "siphonops" ; Times: 1
+	Query: "Phyllobates vittatus" ; Times: 1
+	Query: "specificepithet:kaupii genus:Potamotyphlus" ; Times: 2
+	Query: "Dendropsophus limai" ; Times: 1
+	Query: "gbifdatasetid:186605f8-4f62-4e3a-be58-c6b3b0bc47be" ; Times: 1
+	Query: "Haddadus binotatus mappable:1" ; Times: 2
+	Query: "Estadual Pedra da Boca" ; Times: 1
+	Query: "genus:Rhinella specificepithet:mirandaribeiroi" ; Times: 1
+	Query: "ceratophrys aurita" ; Times: 1
+	Query: "joazeirensis" ; Times: 1
+	Query: "genus:Bokermannohyla specificepithet:izecksohni" ; Times: 1
+	Query: "USL amphibia" ; Times: 1
+	Query: "genus:Proceratophrys specificepithet:goyana" ; Times: 1
+	Query: "genus:Dendrobates specificepithet:tinctorius" ; Times: 1
+	Query: "Serra do Japi" ; Times: 1
+	Query: "Dendropsophus xapuriensis" ; Times: 1
+	Query: "genus:Adelphobates specificepithet:galactonotus" ; Times: 1
+	Query: "genus:Trachycephalus specificepithet:typhonius" ; Times: 2
+	Query: "Dendrobates tinctorius" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 14 (out of 1227 download events in this period)
+Total number of records downloaded: 70
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Belgium ; Times: 1
+	Country: United States ; Times: 2
+	Country: United Kingdom ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-05 ; Times: 1
+	Date: 2019-02-01 ; Times: 1
+	Date: 2019-02-14 ; Times: 1
+	Date: 2019-02-17 ; Times: 4
+	Date: 2019-02-16 ; Times: 2
+	Date: 2019-02-18 ; Times: 3
+	Date: 2019-02-08 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Ambystoma mexicanum" ; Times: 7
+	Query: "Rhinophrynus dorsalis" ; Times: 1
+	Query: "Atelopus spumarius" ; Times: 1
+	Query: "siphonops" ; Times: 1
+	Query: "Ceratophrys" ; Times: 1
+	Query: "caecilia" ; Times: 1
+	Query: "charadricola" ; Times: 1
+	Query: "Rhinophrynus dorsalis vntype:specimen country:&#34;mexico&#34;" ; Times: 1
+
+
+End of report.
