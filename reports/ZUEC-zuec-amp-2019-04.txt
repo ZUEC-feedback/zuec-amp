@@ -1,0 +1,145 @@
+Report for Institution Code ZUEC, Resource zuec-amp
+Usage stats for April 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 91
+Number of records retrieved in searches: 2300
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 42
+	Country: Canada ; Times: 2
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: Costa Rica ; Times: 2
+	Country: United States ; Times: 27
+	Country: Guatemala ; Times: 1
+	Country: Germany ; Times: 3
+	Country: United Kingdom ; Times: 3
+	Country: Colombia ; Times: 6
+	Country: Paraguay ; Times: 1
+	Country: Venezuela ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-19 ; Times: 5
+	Date: 2019-04-18 ; Times: 6
+	Date: 2019-04-23 ; Times: 6
+	Date: 2019-04-12 ; Times: 7
+	Date: 2019-04-17 ; Times: 1
+	Date: 2019-04-16 ; Times: 4
+	Date: 2019-04-15 ; Times: 4
+	Date: 2019-04-14 ; Times: 1
+	Date: 2019-04-30 ; Times: 14
+	Date: 2019-04-01 ; Times: 1
+	Date: 2019-04-02 ; Times: 2
+	Date: 2019-04-03 ; Times: 3
+	Date: 2019-04-04 ; Times: 3
+	Date: 2019-04-05 ; Times: 2
+	Date: 2019-04-20 ; Times: 1
+	Date: 2019-04-21 ; Times: 1
+	Date: 2019-04-26 ; Times: 1
+	Date: 2019-04-27 ; Times: 4
+	Date: 2019-04-24 ; Times: 2
+	Date: 2019-04-25 ; Times: 14
+	Date: 2019-04-28 ; Times: 4
+	Date: 2019-04-29 ; Times: 3
+	Date: 2019-04-08 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:charadricola" ; Times: 1
+	Query: "Aparasphenodon brunoi mappable:1" ; Times: 2
+	Query: "Allobates nidicola" ; Times: 1
+	Query: "Ranitomeya" ; Times: 1
+	Query: "genus:Ischnocnema specificepithet:henselii" ; Times: 1
+	Query: "genus:Ameerega specificepithet:picta" ; Times: 1
+	Query: "Brumadinho" ; Times: 3
+	Query: "Eupsophus" ; Times: 1
+	Query: "genus:Phyllobates specificepithet:vittatus" ; Times: 1
+	Query: "catalognumber:1297" ; Times: 2
+	Query: "genus:Siphonops specificepithet:annulatus" ; Times: 1
+	Query: "Brachycephalus pernix" ; Times: 2
+	Query: "genus:Scinax specificepithet:squalirostris" ; Times: 1
+	Query: "Zachaenus" ; Times: 1
+	Query: "Brachycephalus vertebralis" ; Times: 2
+	Query: "Aplastodiscus cavicola" ; Times: 1
+	Query: "genus:Scinax specificepithet:pachycrus" ; Times: 2
+	Query: "&#34;Brumadinho&#34; AND &#34;AMPHIBIA&#34;" ; Times: 1
+	Query: "Registro" ; Times: 1
+	Query: "ranitomeya" ; Times: 1
+	Query: "genus:Allobates specificepithet:brunneus" ; Times: 1
+	Query: "genus:Physalaemus specificepithet:gracilis" ; Times: 1
+	Query: "Stereocyclops incrassatus" ; Times: 2
+	Query: "Ischnocnema izecksohni" ; Times: 1
+	Query: "Ceratophrys aurita" ; Times: 1
+	Query: "genus:Allophryne specificepithet:ruthveni" ; Times: 1
+	Query: "Paratelmatobius lutzii" ; Times: 1
+	Query: "Phyllobates vittatus" ; Times: 1
+	Query: "genus:Aplastodiscus specificepithet:ehrhardti" ; Times: 1
+	Query: "Leptodactylus didymus" ; Times: 1
+	Query: "aplastodiscus cavicola" ; Times: 3
+	Query: "genus:Rhinella specificepithet:jimi" ; Times: 1
+	Query: "Pristimantis vinhai" ; Times: 1
+	Query: "Jaguar" ; Times: 1
+	Query: "Haddadus binotatus mappable:1" ; Times: 12
+	Query: "10313" ; Times: 1
+	Query: "noblella peruviana" ; Times: 1
+	Query: "Agalychnis aspera" ; Times: 2
+	Query: "genus:Chiasmocleis specificepithet:albopunctata" ; Times: 1
+	Query: "genus:Dendropsophus specificepithet:sanborni" ; Times: 1
+	Query: "M-14857" ; Times: 1
+	Query: "estados unidos" ; Times: 1
+	Query: "Rhinella hoogmoedi" ; Times: 1
+	Query: "Rhinella humboldti" ; Times: 4
+	Query: "Ischnocnema verrucosa" ; Times: 2
+	Query: "aplastodiscus eugenioi" ; Times: 3
+	Query: "Adelophryne pachydactyla" ; Times: 1
+	Query: "catalognumber:20864" ; Times: 2
+	Query: "jaguar" ; Times: 1
+	Query: "genus:Dendrobates specificepithet:tinctorius" ; Times: 1
+	Query: "Leptodactylus latrans mappable:1" ; Times: 2
+	Query: "Brachycephalus pitanga" ; Times: 3
+	Query: "genus:Oophaga specificepithet:histrionica" ; Times: 2
+	Query: "Macrogenioglottus" ; Times: 1
+	Query: "Allobates caeruleodactylus" ; Times: 1
+	Query: "Limnomedusa" ; Times: 1
+	Query: "Cycloramphus acangatan" ; Times: 1
+	Query: "genus:Siphonops specificepithet:paulensis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 16 (out of 1263 download events in this period)
+Total number of records downloaded: 684
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 11
+	Country: United States ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-12 ; Times: 10
+	Date: 2019-04-11 ; Times: 1
+	Date: 2019-04-29 ; Times: 3
+	Date: 2019-04-20 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Cycloramphus" ; Times: 1
+	Query: "Batrachyla" ; Times: 1
+	Query: "Eupsophus" ; Times: 1
+	Query: "Proceratophrys" ; Times: 1
+	Query: "Eleutherodactylus antillensis" ; Times: 1
+	Query: "Limnomedusa" ; Times: 1
+	Query: "Eleutherodactylus richmondi" ; Times: 1
+	Query: "Ambystoma mexicanum" ; Times: 1
+	Query: "Macrogenioglottus" ; Times: 1
+	Query: "Atelognathus" ; Times: 1
+	Query: "Leptodactylus latinasus" ; Times: 1
+	Query: "Zachaenus" ; Times: 1
+	Query: "Odontophrynus" ; Times: 1
+	Query: "Ambystoma macrodactylum" ; Times: 1
+	Query: "Eleutherodactylus wightmanae" ; Times: 1
+	Query: "Ceratophrys" ; Times: 1
+
+
+End of report.
