@@ -1,0 +1,128 @@
+Report for Institution Code ZUEC, Resource zuec-amp
+Usage stats for May 2019, generated on 2019/06/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 223
+Number of records retrieved in searches: 11043
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 139
+	Country: United States ; Times: 14
+	Country: Mexico ; Times: 9
+	Country: Unknown ; Times: 1
+	Country: Finland ; Times: 2
+	Country: United Kingdom ; Times: 36
+	Country: Germany ; Times: 13
+	Country: Colombia ; Times: 2
+	Country: Switzerland ; Times: 1
+	Country: Argentina ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-30 ; Times: 1
+	Date: 2019-05-31 ; Times: 2
+	Date: 2019-05-09 ; Times: 7
+	Date: 2019-05-08 ; Times: 99
+	Date: 2019-05-07 ; Times: 7
+	Date: 2019-05-06 ; Times: 7
+	Date: 2019-05-05 ; Times: 5
+	Date: 2019-05-04 ; Times: 1
+	Date: 2019-05-03 ; Times: 3
+	Date: 2019-05-02 ; Times: 2
+	Date: 2019-05-01 ; Times: 2
+	Date: 2019-05-25 ; Times: 2
+	Date: 2019-05-24 ; Times: 2
+	Date: 2019-05-27 ; Times: 2
+	Date: 2019-05-26 ; Times: 3
+	Date: 2019-05-21 ; Times: 1
+	Date: 2019-05-20 ; Times: 10
+	Date: 2019-05-23 ; Times: 5
+	Date: 2019-05-29 ; Times: 4
+	Date: 2019-05-28 ; Times: 4
+	Date: 2019-05-10 ; Times: 5
+	Date: 2019-05-12 ; Times: 2
+	Date: 2019-05-13 ; Times: 1
+	Date: 2019-05-15 ; Times: 39
+	Date: 2019-05-16 ; Times: 4
+	Date: 2019-05-17 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Hypsiboas punctatus" ; Times: 2
+	Query: "SUI" ; Times: 1
+	Query: "Cycloramphus eleutherodactylus" ; Times: 1
+	Query: "genus:Gastrotheca specificepithet:fissipes" ; Times: 1
+	Query: "genus:Osteocephalus specificepithet:oophagus" ; Times: 2
+	Query: "oyampiensis vntype:specimen" ; Times: 1
+	Query: "catalognumber:3829 institutioncode:ZUEC" ; Times: 1
+	Query: "NA Peru" ; Times: 36
+	Query: "Isthmohyla" ; Times: 1
+	Query: "ranitomeya" ; Times: 1
+	Query: "genus:Pristimantis specificepithet:ramagii" ; Times: 2
+	Query: "Ololygon flavoguttata" ; Times: 1
+	Query: "Phyllomedusa camba" ; Times: 1
+	Query: "specificepithet:altamontana genus:Pseudoeurycea" ; Times: 1
+	Query: "Thoropa miliaris mappable:1" ; Times: 4
+	Query: "isthmohyla rivularis" ; Times: 1
+	Query: "Pristimantis paulodutrai" ; Times: 1
+	Query: "lithobates heckscheri" ; Times: 2
+	Query: "Hypsiboas boans" ; Times: 1
+	Query: "Haddadus binotatus mappable:1" ; Times: 113
+	Query: "isthmohyla pseudopuma" ; Times: 1
+	Query: "genus:Hylodes specificepithet:ornatus" ; Times: 1
+	Query: "Brumadinho" ; Times: 2
+	Query: "Pithecopus nordestinus" ; Times: 1
+	Query: "Hypsiboas leptolineatus" ; Times: 1
+	Query: "genus:Ctenophryne specificepithet:geayi" ; Times: 2
+	Query: "anomaloglossus" ; Times: 2
+	Query: "genus:Phyllomedusa specificepithet:bicolor" ; Times: 2
+	Query: "Pithecopus hypochondrialis" ; Times: 1
+	Query: "genus:Leptodactylus specificepithet:macrosternum" ; Times: 1
+	Query: "aromobates" ; Times: 1
+	Query: "Engystomops freibergi" ; Times: 2
+	Query: "genus:Proceratophrys specificepithet:bigibbosa" ; Times: 1
+	Query: "ameerega hahneli" ; Times: 10
+	Query: "stateprovince:&#34;Goiás&#34; country:&#34;Brasil&#34;" ; Times: 3
+	Query: "Leptodactylus validus" ; Times: 1
+	Query: "juvenil" ; Times: 1
+	Query: "specificepithet:oophagus genus:osteocephalus" ; Times: 2
+	Query: "Aparasphenodon brunoi mappable:1" ; Times: 1
+	Query: "genus:Scinax specificepithet:acuminatus" ; Times: 2
+	Query: "isthmohyla tica" ; Times: 2
+	Query: "osteocephalus oophagus" ; Times: 3
+	Query: "genus:Scinax specificepithet:x-signatus" ; Times: 2
+	Query: "specificepithet:oophagus genus:osteocephalus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Siphonops annulatus" ; Times: 1
+	Query: "genus:Pseudis specificepithet:platensis" ; Times: 1
+	Query: "congonhas" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 940 download events in this period)
+Total number of records downloaded: 47
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-24 ; Times: 1
+	Date: 2019-05-27 ; Times: 1
+	Date: 2019-05-26 ; Times: 1
+	Date: 2019-05-28 ; Times: 1
+	Date: 2019-05-08 ; Times: 1
+	Date: 2019-05-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Salamandra" ; Times: 1
+	Query: "class:Amphibia country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Ambystoma mexicanum" ; Times: 1
+	Query: "Siphonops annulatus" ; Times: 1
+	Query: "specificepithet:mexicanum genus:Ambystoma" ; Times: 1
+	Query: "Hypsiboas punctatus" ; Times: 1
+
+
+End of report.
