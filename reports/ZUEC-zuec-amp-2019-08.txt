@@ -1,0 +1,205 @@
+Report for Institution Code ZUEC, Resource zuec-amp
+Usage stats for August 2019, generated on 2019/09/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 156
+Number of records retrieved in searches: 4150
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 70
+	Country: United Kingdom ; Times: 40
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: Czechia ; Times: 2
+	Country: United States ; Times: 5
+	Country: Australia ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 3
+	Country: Denmark ; Times: 1
+	Country: Argentina ; Times: 27
+	Country: Dominican Republic ; Times: 1
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-08 ; Times: 10
+	Date: 2019-08-07 ; Times: 3
+	Date: 2019-08-01 ; Times: 3
+	Date: 2019-08-03 ; Times: 1
+	Date: 2019-08-04 ; Times: 2
+	Date: 2019-08-05 ; Times: 40
+	Date: 2019-08-06 ; Times: 1
+	Date: 2019-08-29 ; Times: 25
+	Date: 2019-08-26 ; Times: 1
+	Date: 2019-08-09 ; Times: 11
+	Date: 2019-08-24 ; Times: 1
+	Date: 2019-08-25 ; Times: 1
+	Date: 2019-08-22 ; Times: 1
+	Date: 2019-08-23 ; Times: 5
+	Date: 2019-08-20 ; Times: 4
+	Date: 2019-08-21 ; Times: 1
+	Date: 2019-08-17 ; Times: 11
+	Date: 2019-08-16 ; Times: 9
+	Date: 2019-08-15 ; Times: 9
+	Date: 2019-08-12 ; Times: 1
+	Date: 2019-08-11 ; Times: 1
+	Date: 2019-08-30 ; Times: 3
+	Date: 2019-08-18 ; Times: 12
+
+List of queries that retrieved data from the resource: 
+	Query: "Trachycephalus coriaceus" ; Times: 1
+	Query: "Allobates brunneus" ; Times: 1
+	Query: "genus:Aplastodiscus specificepithet:perviridis" ; Times: 2
+	Query: "resinifictrix" ; Times: 1
+	Query: "Scinax x-signatus" ; Times: 1
+	Query: "Pristimantis fenestratus" ; Times: 1
+	Query: "Adelphobates quinquevittatus mappable:1" ; Times: 1
+	Query: "genus:Ameerega specificepithet:flavopicta" ; Times: 1
+	Query: "Scinax squalirostris mappable:1" ; Times: 1
+	Query: "21879" ; Times: 1
+	Query: "Physalaemus marmoratus mappable:1" ; Times: 1
+	Query: "genus:Proceratophrys specificepithet:cristiceps" ; Times: 1
+	Query: "Leptodactylus podicipinus" ; Times: 1
+	Query: "Rhinella dorbignyi mappable:1" ; Times: 1
+	Query: "genus:Leptodactylus specificepithet:macrosternum" ; Times: 2
+	Query: "Chiasmocleis bassleri mappable:1" ; Times: 1
+	Query: "Siphonops paulensis mappable:1" ; Times: 1
+	Query: "genus:Pseudis specificepithet:minuta" ; Times: 5
+	Query: "Pseudis paradoxa" ; Times: 1
+	Query: "genus:Phyllomedusa specificepithet:burmeisteri" ; Times: 1
+	Query: "Leptodactylus ocellatus" ; Times: 1
+	Query: "Hyla plicata" ; Times: 1
+	Query: "Pristimantis dundeei" ; Times: 1
+	Query: "Trachycephalus venulosus" ; Times: 1
+	Query: "joao pinheiro" ; Times: 1
+	Query: "Proceratophrys vielliardi" ; Times: 1
+	Query: "Dendropsophus cerradensis" ; Times: 2
+	Query: "Rhinella icterica mappable:1" ; Times: 1
+	Query: "Physalaemus lisei mappable:1" ; Times: 1
+	Query: "Osteocephalus taurinus mappable:1" ; Times: 1
+	Query: "Pseudopaludicola boliviana" ; Times: 1
+	Query: "Pristimantis ockendeni" ; Times: 1
+	Query: "Chthonerpeton viviparum mappable:1" ; Times: 1
+	Query: "Bokermannohyla napolii" ; Times: 1
+	Query: "Trachycephalus typhonius" ; Times: 1
+	Query: "genus:Phasmahyla specificepithet:guttata" ; Times: 1
+	Query: "genus:Hyla specificepithet:plicata" ; Times: 1
+	Query: "genus:Julianus specificepithet:uruguayus" ; Times: 1
+	Query: "Leptodactylus macrosternum mappable:1" ; Times: 1
+	Query: "Pseudopaludicola murundu" ; Times: 1
+	Query: "Proceratophrys belzebul" ; Times: 1
+	Query: "Bokermannohyla ibitiguara" ; Times: 1
+	Query: "Proceratophrys moratoi" ; Times: 3
+	Query: "Leptodactylus latrans" ; Times: 1
+	Query: "Ameerega picta" ; Times: 3
+	Query: "Aplastodiscus perviridis mappable:1" ; Times: 1
+	Query: "Trachycephalus resinifictrix" ; Times: 1
+	Query: "Odontophrynus monachus" ; Times: 1
+	Query: "Pithecopus hypochondrialis mappable:1" ; Times: 1
+	Query: "Osteocephalus leprieurii" ; Times: 2
+	Query: "Osteocephalus oophagus" ; Times: 1
+	Query: "Engystomops freibergi" ; Times: 1
+	Query: "Rhinella ornata mappable:1" ; Times: 1
+	Query: "Trachycephalus mesophaeus" ; Times: 1
+	Query: "Dendropsophus anceps" ; Times: 1
+	Query: "Pithecopus centralis" ; Times: 2
+	Query: "genus:Trachycephalus specificepithet:typhonius" ; Times: 1
+	Query: "Pseudis bolbodactyla" ; Times: 1
+	Query: "Leptodactylus rhodomystax" ; Times: 1
+	Query: "Aplastodiscus leucopygius" ; Times: 1
+	Query: "Bokermannohyla ravida" ; Times: 1
+	Query: "18903" ; Times: 1
+	Query: "Centrolene buckleyi" ; Times: 2
+	Query: "genus:Physalaemus specificepithet:evangelistai" ; Times: 1
+	Query: "Leptodactylus tapiti" ; Times: 2
+	Query: "Pristimantis fenestratus mappable:1" ; Times: 1
+	Query: "Potamotyphlus kaupii mappable:1" ; Times: 1
+	Query: "Leptodactylus jolyi" ; Times: 1
+	Query: "Physalaemus riograndensis mappable:1" ; Times: 1
+	Query: "Ameerega hahneli" ; Times: 1
+	Query: "Rupirana cardosoi" ; Times: 2
+	Query: "genus:Adenomera specificepithet:andreae" ; Times: 1
+	Query: "Adelphobates galactonotus mappable:1" ; Times: 1
+	Query: "Ameerega braccata" ; Times: 1
+	Query: "Sphaenorhynchus lacteus" ; Times: 1
+	Query: "Vitreorana uranoscopa" ; Times: 1
+	Query: "Dendropsophus triangulum" ; Times: 1
+	Query: "Haddadus binotatus mappable:1" ; Times: 1
+	Query: "genus:Phyllomedusa specificepithet:tetraploidea" ; Times: 1
+	Query: "Leptodactylus bolivianus" ; Times: 1
+	Query: "Dendropsophus koechlini" ; Times: 1
+	Query: "catalognumber:6995" ; Times: 1
+	Query: "Physalaemus deimaticus" ; Times: 2
+	Query: "genus:Ranitomeya specificepithet:ventrimaculata" ; Times: 1
+	Query: "genus:Rhinella specificepithet:rubescens" ; Times: 1
+	Query: "Ameerega hahneli mappable:1" ; Times: 1
+	Query: "Adenomera martinezi" ; Times: 1
+	Query: "Pithecopus azureus" ; Times: 1
+	Query: "Incilius marmoreus mappable:1" ; Times: 1
+	Query: "Osteocephalus subtilis" ; Times: 1
+	Query: "Leptodactylus stenodema mappable:1" ; Times: 1
+	Query: "Leptodactylus petersii mappable:1" ; Times: 1
+	Query: "Trachycephalus nigromaculatus" ; Times: 1
+	Query: "genus:Pipa specificepithet:arrabali" ; Times: 2
+	Query: "Proceratophrys concavitympanum mappable:1" ; Times: 1
+	Query: "Hypsiboas raniceps" ; Times: 2
+	Query: "Sphaenorhynchus carneus" ; Times: 1
+	Query: "Chiasmocleis albopunctata" ; Times: 3
+	Query: "Atelopus spumarius" ; Times: 2
+	Query: "Siphonops annulatus mappable:1" ; Times: 1
+	Query: "genus:Scinax specificepithet:tymbamirim" ; Times: 1
+	Query: "Trachycephalus jordani" ; Times: 1
+	Query: "Physalaemus lateristriga" ; Times: 1
+	Query: "Osteocephalus taurinus" ; Times: 1
+	Query: "Leptodactylus petersii" ; Times: 1
+	Query: "Elachistocleis cesarii mappable:1" ; Times: 1
+	Query: "Physalaemus ephippifer mappable:1" ; Times: 1
+	Query: "Itapeva" ; Times: 1
+	Query: "Trachycephalus imitatrix" ; Times: 1
+	Query: "Ameerega flavopicta" ; Times: 2
+	Query: "Physalaemus gracilis" ; Times: 1
+	Query: "Crossodactylus franciscanus" ; Times: 7
+	Query: "Scinax catharinae" ; Times: 1
+	Query: "Assa" ; Times: 1
+	Query: "Oreobates crepitans" ; Times: 2
+	Query: "Hypsiboas atlanticus" ; Times: 1
+	Query: "Lithodytes lineatus mappable:1" ; Times: 1
+	Query: "Allobates femoralis mappable:1" ; Times: 1
+	Query: "macdougall class:amphibia country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Physalaemus riograndensis" ; Times: 1
+	Query: "Lysapsus caraya" ; Times: 2
+	Query: "Chthonerpeton indistinctum mappable:1" ; Times: 1
+	Query: "Pseudopaludicola ibisoroca" ; Times: 1
+	Query: "Dendropsophus leucophyllatus mappable:1" ; Times: 1
+	Query: "genus:Phyllodytes specificepithet:luteolus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 1034 download events in this period)
+Total number of records downloaded: 180
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: France ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-01 ; Times: 1
+	Date: 2019-08-15 ; Times: 2
+	Date: 2019-08-29 ; Times: 1
+	Date: 2019-08-05 ; Times: 1
+	Date: 2019-08-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "agalychnis callidryas" ; Times: 1
+	Query: "Dendropsophus koechlini" ; Times: 1
+	Query: "dendrophryniscus" ; Times: 1
+	Query: "rhinella marina" ; Times: 2
+	Query: "macdougall country:&#34;mexico&#34;" ; Times: 1
+
+
+End of report.
