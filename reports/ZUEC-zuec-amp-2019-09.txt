@@ -1,0 +1,143 @@
+Report for Institution Code ZUEC, Resource zuec-amp
+Usage stats for September 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 137
+Number of records retrieved in searches: 5456
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 75
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 4
+	Country: Panama ; Times: 2
+	Country: France ; Times: 3
+	Country: United States ; Times: 46
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Thailand ; Times: 1
+	Country: Argentina ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-14 ; Times: 2
+	Date: 2019-09-15 ; Times: 2
+	Date: 2019-09-16 ; Times: 3
+	Date: 2019-09-17 ; Times: 13
+	Date: 2019-09-10 ; Times: 4
+	Date: 2019-09-11 ; Times: 7
+	Date: 2019-09-12 ; Times: 3
+	Date: 2019-09-13 ; Times: 1
+	Date: 2019-09-18 ; Times: 39
+	Date: 2019-09-19 ; Times: 4
+	Date: 2019-09-30 ; Times: 1
+	Date: 2019-09-09 ; Times: 14
+	Date: 2019-09-08 ; Times: 1
+	Date: 2019-09-03 ; Times: 5
+	Date: 2019-09-02 ; Times: 3
+	Date: 2019-09-07 ; Times: 1
+	Date: 2019-09-06 ; Times: 2
+	Date: 2019-09-04 ; Times: 4
+	Date: 2019-09-21 ; Times: 1
+	Date: 2019-09-20 ; Times: 6
+	Date: 2019-09-23 ; Times: 8
+	Date: 2019-09-22 ; Times: 2
+	Date: 2019-09-25 ; Times: 1
+	Date: 2019-09-24 ; Times: 1
+	Date: 2019-09-27 ; Times: 5
+	Date: 2019-09-26 ; Times: 3
+	Date: 2019-09-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Rhinella specificepithet:castaneotica" ; Times: 1
+	Query: "Physalaemus  nanus mappable:1" ; Times: 1
+	Query: "specificepithet:marginata genus:Phrynomedusa" ; Times: 1
+	Query: "genus:Rhinella specificepithet:major" ; Times: 1
+	Query: "Physalaemus  henselii mappable:1" ; Times: 1
+	Query: "specificepithet:ornatus genus:Hylodes" ; Times: 2
+	Query: "genus:Ceratophrys specificepithet:aurita" ; Times: 1
+	Query: "Potamotyphlus kaupii mappable:1" ; Times: 1
+	Query: "Siphonops annulatus mappable:1" ; Times: 1
+	Query: "Chthonerpeton viviparum mappable:1" ; Times: 1
+	Query: "Ololygon argyreornata" ; Times: 1
+	Query: "genus:Dendropsophus specificepithet:decipiens" ; Times: 1
+	Query: "specificepithet:albofrenatus genus:Aplastodiscus" ; Times: 1
+	Query: "Ecnomiohyla" ; Times: 1
+	Query: "Physalaemus  riograndensis mappable:1" ; Times: 1
+	Query: "genus:Allobates specificepithet:olfersioides" ; Times: 1
+	Query: "Aplastodiscus albofrenatus" ; Times: 11
+	Query: "specificepithet:minusculus genus:Dendropsophus" ; Times: 1
+	Query: "genus:Rhinophrynus country:&#34;mexico&#34;" ; Times: 1
+	Query: "Dasypops schirchi" ; Times: 1
+	Query: "specificepithet:lactea genus:Ischnocnema" ; Times: 1
+	Query: "Pristimantis (Pristimantis) buccinator" ; Times: 1
+	Query: "sui" ; Times: 1
+	Query: "specificepithet:timbeba  genus:Dendropsophus" ; Times: 1
+	Query: "specificepithet:brevipollicatus genus:Dendrophryniscus" ; Times: 1
+	Query: "specificepithet:rivularis genus:Isthmohyla" ; Times: 1
+	Query: "Brachycephalus hermogenesi hastypestatus:1" ; Times: 1
+	Query: "specificepithet:leucomystax genus:Dendrophryniscus" ; Times: 1
+	Query: "genus:Tlalocohyla specificepithet:smithii" ; Times: 1
+	Query: "specificepithet:poecilogaster genus:Paratelmatobius" ; Times: 1
+	Query: "specificepithet:eleutherodactylus genus:Cycloramphus" ; Times: 1
+	Query: "genus:Scinax specificepithet:cuspidatus" ; Times: 1
+	Query: "genus:Proceratophrys specificepithet:boiei" ; Times: 1
+	Query: "Ischnocnema juipoca" ; Times: 2
+	Query: "Physalaemus  gracilis mappable:1" ; Times: 1
+	Query: "Haddadus binotatus mappable:1" ; Times: 48
+	Query: "genus:Itapotihyla specificepithet:langsdorffii" ; Times: 2
+	Query: "locality:Poços de Caldas" ; Times: 1
+	Query: "genus:Melanophryniscus specificepithet:moreirae" ; Times: 1
+	Query: "catalognumber:5841" ; Times: 1
+	Query: "SUI" ; Times: 1
+	Query: "genus:Leptodactylus specificepithet:macrosternum" ; Times: 1
+	Query: "Physalaemus  cuvieri mappable:1" ; Times: 1
+	Query: "Pseudis paradoxa mappable:1" ; Times: 1
+	Query: "Siphonops paulensis mappable:1" ; Times: 1
+	Query: "catalognumber:20459" ; Times: 1
+	Query: "catalognumber:5481" ; Times: 1
+	Query: "Rhinella humboldti" ; Times: 1
+	Query: "Eleutherodactylus bilineatus" ; Times: 1
+	Query: "specificepithet:imitatrix  genus:Trachycephalus" ; Times: 1
+	Query: "genus:Allophryne specificepithet:ruthveni" ; Times: 1
+	Query: "atelopus chiriquiensis" ; Times: 2
+	Query: "jaguar" ; Times: 1
+	Query: "Bokermannohyla alvarengai" ; Times: 1
+	Query: "Pipa pipa mappable:1" ; Times: 1
+	Query: "genus:Leptodactylus specificepithet:vastus" ; Times: 2
+	Query: "Physalaemus  biligonigerus mappable:1" ; Times: 2
+	Query: "Cachoeira Bonita" ; Times: 2
+	Query: "Chthonerpeton indistinctum mappable:1" ; Times: 1
+	Query: "specificepithet:crucifer genus:Rhinella" ; Times: 1
+	Query: "specificepithet:skydmainos genus:Pristimantis" ; Times: 1
+	Query: "hypsiboas microderma" ; Times: 1
+	Query: "specificepithet:buccinator  genus:Pristimantis" ; Times: 1
+	Query: "Adelphobates galactonotus" ; Times: 1
+	Query: "genus:Scinax specificepithet:x-signatus" ; Times: 1
+	Query: "genus:Ecnomiohyla" ; Times: 7
+	Query: "specificepithet:resinifictrix genus:Trachycephalus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 1073 download events in this period)
+Total number of records downloaded: 221
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-23 ; Times: 1
+	Date: 2019-09-22 ; Times: 1
+	Date: 2019-09-30 ; Times: 1
+	Date: 2019-09-27 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "centrolene" ; Times: 2
+	Query: "Lithobates catesbeianus" ; Times: 1
+	Query: "genus:Rhinophrynus country:&#34;Mexico&#34;" ; Times: 1
+
+
+End of report.
