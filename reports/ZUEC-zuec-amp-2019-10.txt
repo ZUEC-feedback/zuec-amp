@@ -1,0 +1,143 @@
+Report for Institution Code ZUEC, Resource zuec-amp
+Usage stats for October 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 89
+Number of records retrieved in searches: 2110
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 41
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 9
+	Country: United States ; Times: 11
+	Country: Spain ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Argentina ; Times: 18
+	Country: Russia ; Times: 2
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-09 ; Times: 12
+	Date: 2019-10-08 ; Times: 2
+	Date: 2019-10-21 ; Times: 3
+	Date: 2019-10-02 ; Times: 4
+	Date: 2019-10-27 ; Times: 1
+	Date: 2019-10-26 ; Times: 2
+	Date: 2019-10-24 ; Times: 9
+	Date: 2019-10-01 ; Times: 5
+	Date: 2019-10-05 ; Times: 1
+	Date: 2019-10-10 ; Times: 1
+	Date: 2019-10-11 ; Times: 2
+	Date: 2019-10-30 ; Times: 13
+	Date: 2019-10-31 ; Times: 5
+	Date: 2019-10-07 ; Times: 3
+	Date: 2019-10-17 ; Times: 4
+	Date: 2019-10-22 ; Times: 6
+	Date: 2019-10-23 ; Times: 4
+	Date: 2019-10-14 ; Times: 1
+	Date: 2019-10-06 ; Times: 3
+	Date: 2019-10-28 ; Times: 7
+	Date: 2019-10-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Dendrophryniscus leucomystax" ; Times: 1
+	Query: "Oophaga histrionica" ; Times: 1
+	Query: "bromelicola" ; Times: 1
+	Query: "genus:Leptodactylus specificepithet:vastus" ; Times: 3
+	Query: "Chiasmocleis leucosticta" ; Times: 3
+	Query: "10109" ; Times: 1
+	Query: "institutioncode:ZUEC" ; Times: 1
+	Query: "Chiasmocleis stateprovince:&#34;Rio de Janeiro&#34;" ; Times: 2
+	Query: "genus:Cycloramphus specificepithet:juimirim" ; Times: 1
+	Query: "genus:Hylomantis specificepithet:granulosa" ; Times: 1
+	Query: "genus:Physalaemus specificepithet:barrioi" ; Times: 1
+	Query: "genus:Engystomops specificepithet:freibergi" ; Times: 1
+	Query: "genus:Pristimantis specificepithet:ramagii" ; Times: 1
+	Query: "Rhinella achalensis" ; Times: 1
+	Query: "Ceratophrys joazeirensis" ; Times: 1
+	Query: "Phyllomedusa camba" ; Times: 1
+	Query: "Zachaenus parvulus" ; Times: 1
+	Query: "Allobates trilineatus" ; Times: 1
+	Query: "Ceratophrys aurita" ; Times: 1
+	Query: "Dasypops schirchi" ; Times: 1
+	Query: "genus:Proceratophrys specificepithet:schirchi" ; Times: 1
+	Query: "Osteocephalus alboguttatus" ; Times: 2
+	Query: "genus:Proceratophrys specificepithet:mantiqueira" ; Times: 1
+	Query: "Bokermannohyla ibitiguara" ; Times: 1
+	Query: "Chiasmocleis lacrimae" ; Times: 6
+	Query: "genus:Scinax specificepithet:similis" ; Times: 1
+	Query: "genus:Pristimantis specificepithet:paulodutrai" ; Times: 1
+	Query: "specificepithet:cochranae genus:Aplastodiscus" ; Times: 1
+	Query: "Haddadus binotatus mappable:1" ; Times: 10
+	Query: "Hyalinobatrachium carlesvilai" ; Times: 1
+	Query: "genus:Scinax specificepithet:trapicheiroi" ; Times: 1
+	Query: "SP 11608" ; Times: 1
+	Query: "genus:Hylodes specificepithet:nasus" ; Times: 1
+	Query: "Pseudis minuta" ; Times: 1
+	Query: "heyeri" ; Times: 1
+	Query: "Dendropsophus timbeba" ; Times: 1
+	Query: "genus:Phyllomedusa specificepithet:bicolor" ; Times: 1
+	Query: "genus:Rhinella specificepithet:fernandezae" ; Times: 1
+	Query: "Chiasmocleis locality:Rio de Janeiro" ; Times: 1
+	Query: "euparkerella" ; Times: 1
+	Query: "Ischnocnema guentheri" ; Times: 1
+	Query: "Glandirana rugosa" ; Times: 1
+	Query: "genus:Melanophryniscus specificepithet:moreirae" ; Times: 1
+	Query: "Pelophylax nigromaculatus" ; Times: 1
+	Query: "genus:Leptodactylus specificepithet:cunicularius" ; Times: 1
+	Query: "jaguar" ; Times: 1
+	Query: "genus:Trachycephalus specificepithet:mesophaeus" ; Times: 1
+	Query: "Odontophrynus americanus" ; Times: 1
+	Query: "arborea Hyla" ; Times: 2
+	Query: "genus:Scinax specificepithet:perereca" ; Times: 1
+	Query: "catalognumber:16172" ; Times: 1
+	Query: "genus:Phyllodytes specificepithet:luteolus" ; Times: 1
+	Query: "class:Amphibia locality:Rio ramos country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Phyllomedusa tetraploidea" ; Times: 1
+	Query: "Scinax squalirostris" ; Times: 2
+	Query: "class:Amphibia locality:Rio ramos country:&#34;México&#34;" ; Times: 2
+	Query: "genus:hadromophryne" ; Times: 1
+	Query: "Ecnomiohyla miotympanum" ; Times: 2
+	Query: "genus:Ecnomiohyla" ; Times: 1
+	Query: "Phyllomedusa burmeisteri" ; Times: 1
+	Query: "phyllomedusa burmeisteri" ; Times: 1
+	Query: "macrodactylum Ambystoma" ; Times: 4
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 26 (out of 1308 download events in this period)
+Total number of records downloaded: 3926
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 12
+	Country: Indonesia ; Times: 1
+	Country: Mexico ; Times: 13
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-23 ; Times: 13
+	Date: 2019-10-02 ; Times: 1
+	Date: 2019-10-16 ; Times: 1
+	Date: 2019-10-31 ; Times: 1
+	Date: 2019-10-14 ; Times: 1
+	Date: 2019-10-04 ; Times: 2
+	Date: 2019-10-15 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Ambystoma specificepithet:mexicanum" ; Times: 1
+	Query: "genus:Odontophrynus" ; Times: 1
+	Query: "Lithobates catesbeianus" ; Times: 9
+	Query: "genus:Chiasmocleis" ; Times: 1
+	Query: "genus:Ceratophrys" ; Times: 2
+	Query: "Tangara" ; Times: 2
+	Query: "genus:Pleurodema" ; Times: 2
+	Query: "lithobates catesbeianus" ; Times: 4
+	Query: "genus:Phyllomedusa" ; Times: 2
+	Query: "genus:Ecnomiohyla" ; Times: 1
+	Query: "Lithobates Catesbeianus" ; Times: 1
+
+
+End of report.
