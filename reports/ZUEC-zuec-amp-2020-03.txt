@@ -1,0 +1,133 @@
+Report for Institution Code ZUEC, Resource zuec-amp
+Usage stats for March 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 54
+Number of records retrieved in searches: 557
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 9
+	Country: Netherlands ; Times: 2
+	Country: Cuba ; Times: 8
+	Country: Unknown ; Times: 2
+	Country: United States ; Times: 32
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-11 ; Times: 9
+	Date: 2020-03-06 ; Times: 1
+	Date: 2020-03-01 ; Times: 1
+	Date: 2020-03-13 ; Times: 1
+	Date: 2020-03-30 ; Times: 2
+	Date: 2020-03-31 ; Times: 3
+	Date: 2020-03-25 ; Times: 1
+	Date: 2020-03-23 ; Times: 3
+	Date: 2020-03-18 ; Times: 5
+	Date: 2020-03-20 ; Times: 4
+	Date: 2020-03-16 ; Times: 1
+	Date: 2020-03-09 ; Times: 3
+	Date: 2020-03-04 ; Times: 3
+	Date: 2020-03-15 ; Times: 2
+	Date: 2020-03-12 ; Times: 1
+	Date: 2020-03-14 ; Times: 2
+	Date: 2020-03-29 ; Times: 3
+	Date: 2020-03-02 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "Trachycephalus coriaceus" ; Times: 1
+	Query: "specificepithet:punctatus genus:Anaxyrus stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "catalognumber:13619" ; Times: 2
+	Query: "Jaguar" ; Times: 1
+	Query: "23124" ; Times: 1
+	Query: "genus:Rupirana specificepithet:cardosoi" ; Times: 1
+	Query: "order:Gymnophiona class:Amphibia catalognumber:12104 institutioncode:ZUEC basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "22481" ; Times: 1
+	Query: "order:Gymnophiona class:Amphibia catalognumber:965 institutioncode:ZUEC basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Trachycephalus resinifictrix" ; Times: 1
+	Query: "Trachycephalus nigromaculatus" ; Times: 1
+	Query: "genus:Dendropsophus specificepithet:decipiens" ; Times: 1
+	Query: "Trachycephalus atlas" ; Times: 1
+	Query: "order:Gymnophiona class:Amphibia catalognumber:8519 institutioncode:ZUEC basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:7319" ; Times: 1
+	Query: "Chiropterotriton chiropterus" ; Times: 1
+	Query: "Odontophrynus cultripes" ; Times: 2
+	Query: "specificepithet:punctatus genus:Anaxyrus stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "(11044)" ; Times: 1
+	Query: "13619" ; Times: 2
+	Query: "order:Gymnophiona class:Amphibia catalognumber:19977 institutioncode:ZUEC basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Trachycephalus dibernardoi" ; Times: 1
+	Query: "specificepithet:carolinensis genus:gastrophryne stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "13715" ; Times: 2
+	Query: "genus:Ceratophrys specificepithet:aurita" ; Times: 1
+	Query: "order:Gymnophiona class:Amphibia catalognumber:8528 institutioncode:ZUEC basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Trachycephalus imitatrix" ; Times: 1
+	Query: "order:Gymnophiona class:Amphibia catalognumber:3694 institutioncode:ZUEC basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Incilius marmoreus" ; Times: 1
+	Query: "Proceratophrys moratoi" ; Times: 1
+	Query: "order:Gymnophiona class:Amphibia catalognumber:16023 institutioncode:ZUEC basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Rhinella hoogmoedi" ; Times: 1
+	Query: "order:Gymnophiona class:Amphibia catalognumber:8527 institutioncode:ZUEC basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Trachycephalus cunauaru" ; Times: 1
+	Query: "genus:Brachycephalus specificepithet:margaritatus" ; Times: 1
+	Query: "genus:Rhinella specificepithet:mirandaribeiroi" ; Times: 1
+	Query: "order:Gymnophiona class:Amphibia catalognumber:3517 institutioncode:ZUEC basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "hemiphractus fasciatus" ; Times: 1
+	Query: "genus:Rhinella specificepithet:ornata" ; Times: 1
+	Query: "genus:Rhinella specificepithet:hoogmoedi" ; Times: 1
+	Query: "Trachycephalus mesophaeus" ; Times: 1
+	Query: "Hyla plicata" ; Times: 1
+	Query: "Rhinella ornata" ; Times: 1
+	Query: "genus:Dendrobates specificepithet:tinctorius" ; Times: 2
+	Query: "catalognumber:5085" ; Times: 1
+	Query: "genus:Rhinella specificepithet:jimi" ; Times: 1
+	Query: "21297" ; Times: 1
+	Query: "genus:Trachycephalus specificepithet:imitatrix" ; Times: 1
+	Query: "genus:Phyllodytes specificepithet:luteolus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 22 (out of 853 download events in this period)
+Total number of records downloaded: 508
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: Brazil ; Times: 2
+	Country: Cuba ; Times: 12
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-30 ; Times: 1
+	Date: 2020-03-21 ; Times: 1
+	Date: 2020-03-20 ; Times: 2
+	Date: 2020-03-16 ; Times: 2
+	Date: 2020-03-12 ; Times: 1
+	Date: 2020-03-10 ; Times: 1
+	Date: 2020-03-02 ; Times: 14
+
+List of queries that retrieved data from the resource: 
+	Query: "Trachycephalus jordani" ; Times: 1
+	Query: "Trachycephalus coriaceus" ; Times: 2
+	Query: "Trachycephalus resinifictrix" ; Times: 1
+	Query: "specificepithet:bombifrons genus:Spea" ; Times: 1
+	Query: "Trachycephalus mesophaeus" ; Times: 1
+	Query: "Trachycephalus cunauaru" ; Times: 1
+	Query: "Hypsiboas punctatus" ; Times: 1
+	Query: "Atelopus chiriquiensis" ; Times: 1
+	Query: "specificepithet:palustris family:Ranidae" ; Times: 1
+	Query: "Atelopus senex" ; Times: 1
+	Query: "specificepithet:olivacea genus:Gastrophryne" ; Times: 1
+	Query: "Trachycephalus imitatrix" ; Times: 1
+	Query: "Rhinella hoogmoedi" ; Times: 1
+	Query: "specificepithet:punctatus genus:Anaxyrus" ; Times: 1
+	Query: "Trachycephalus venulosus" ; Times: 1
+	Query: "specificepithet:areolatus family:Ranidae" ; Times: 1
+	Query: "Trachycephalus atlas" ; Times: 1
+	Query: "Trachycephalus typhonius" ; Times: 1
+	Query: "genus:Trachycephalus family:Hylidae" ; Times: 1
+	Query: "Trachycephalus" ; Times: 1
+	Query: "Trachycephalus nigromaculatus" ; Times: 1
+
+
+End of report.
