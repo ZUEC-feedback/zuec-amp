@@ -1,0 +1,139 @@
+Report for Institution Code ZUEC, Resource zuec-amp
+Usage stats for February 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 80
+Number of records retrieved in searches: 1564
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 41
+	Country: Canada ; Times: 1
+	Country: Netherlands ; Times: 2
+	Country: Mexico ; Times: 5
+	Country: Unknown ; Times: 3
+	Country: Costa Rica ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 4
+	Country: United States ; Times: 20
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-04 ; Times: 1
+	Date: 2020-02-02 ; Times: 2
+	Date: 2020-02-03 ; Times: 8
+	Date: 2020-02-26 ; Times: 4
+	Date: 2020-02-01 ; Times: 1
+	Date: 2020-02-06 ; Times: 6
+	Date: 2020-02-21 ; Times: 1
+	Date: 2020-02-22 ; Times: 2
+	Date: 2020-02-05 ; Times: 3
+	Date: 2020-02-09 ; Times: 2
+	Date: 2020-02-28 ; Times: 4
+	Date: 2020-02-29 ; Times: 1
+	Date: 2020-02-11 ; Times: 3
+	Date: 2020-02-10 ; Times: 6
+	Date: 2020-02-13 ; Times: 2
+	Date: 2020-02-12 ; Times: 4
+	Date: 2020-02-15 ; Times: 1
+	Date: 2020-02-14 ; Times: 6
+	Date: 2020-02-17 ; Times: 2
+	Date: 2020-02-19 ; Times: 1
+	Date: 2020-02-18 ; Times: 2
+	Date: 2020-02-24 ; Times: 1
+	Date: 2020-02-27 ; Times: 13
+	Date: 2020-02-20 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Aplastodiscus specificepithet:albofrenatus" ; Times: 1
+	Query: "noblella peruviana order:anura" ; Times: 1
+	Query: "genus:Brachycephalus specificepithet:didactylus" ; Times: 1
+	Query: "Ameerega trivittata" ; Times: 3
+	Query: "genus:Dendropsophus specificepithet:haraldschultzi" ; Times: 1
+	Query: "Ctenophryne geayi" ; Times: 1
+	Query: "genus:Leptodactylus specificepithet:syphax" ; Times: 1
+	Query: "genus:Scinax specificepithet:brieni" ; Times: 1
+	Query: "genus:Proceratophrys specificepithet:palustris" ; Times: 1
+	Query: "genus:Pseudis specificepithet:bolbodactyla" ; Times: 1
+	Query: "genus:Scarthyla specificepithet:vigilans" ; Times: 1
+	Query: "22179" ; Times: 1
+	Query: "genus:Isthmohyla specificepithet:rivularis" ; Times: 1
+	Query: "genus:Cycloramphus specificepithet:brasiliensis" ; Times: 1
+	Query: "genus:Aplastodiscus specificepithet:perviridis" ; Times: 1
+	Query: "genus:Allobates specificepithet:olfersioides" ; Times: 1
+	Query: "genus:Anaxyrus (boreas halophilus)" ; Times: 1
+	Query: "genus:Anaxyrus stateprovince:&#34;California&#34; (boreas halophilus)" ; Times: 3
+	Query: "catalognumber:19343" ; Times: 1
+	Query: "Elachistocleis carvalhoi" ; Times: 1
+	Query: "Isthmohyla tica" ; Times: 1
+	Query: "gargarizans Bufo" ; Times: 1
+	Query: "catalognumber:12020" ; Times: 1
+	Query: "Hemiphractus fasciatus" ; Times: 4
+	Query: "genus:Pseudopaludicola specificepithet:boliviana" ; Times: 1
+	Query: "Eleutherodactylus johnstonei" ; Times: 1
+	Query: "genus:Aplastodiscus specificepithet:arildae" ; Times: 2
+	Query: "Eleutherodactylus johnstonei mappable:1" ; Times: 1
+	Query: "catalognumber:1625" ; Times: 1
+	Query: "Hypopachus ustus" ; Times: 2
+	Query: "specificepithet:jahni" ; Times: 1
+	Query: "14846" ; Times: 1
+	Query: "genus:Pipa specificepithet:carvalhoi" ; Times: 1
+	Query: "Pithecopus hypochondrialis" ; Times: 2
+	Query: "genus:Smilisca specificepithet:dentata" ; Times: 1
+	Query: "genus:Chiasmocleis specificepithet:albopunctata" ; Times: 1
+	Query: "locality:Cerro Toledo " ; Times: 1
+	Query: "erikae" ; Times: 1
+	Query: "genus:Leptodactylus specificepithet:macrosternum" ; Times: 4
+	Query: "Physalaemus erikae" ; Times: 1
+	Query: "genus:Rhinella specificepithet:ornata" ; Times: 1
+	Query: "genus:Proceratophrys specificepithet:avelinoi" ; Times: 1
+	Query: "Allophryne ruthveni" ; Times: 2
+	Query: "genus:Pseudis specificepithet:minuta" ; Times: 1
+	Query: "calamita Epidalea" ; Times: 1
+	Query: "hypsiboas pulchellus" ; Times: 1
+	Query: "Pleurodema brachyops" ; Times: 2
+	Query: "catalognumber:17595" ; Times: 1
+	Query: "jaguar" ; Times: 1
+	Query: "Rhinella ornata" ; Times: 3
+	Query: "Adelphobates castaneoticus" ; Times: 2
+	Query: "callimedusa tomopterna" ; Times: 1
+	Query: "catalognumber:4916" ; Times: 1
+	Query: "genus:Proceratophrys specificepithet:cristiceps" ; Times: 1
+	Query: "genus:Physalaemus specificepithet:spiniger" ; Times: 1
+	Query: "Chiasmocleis mehelyi" ; Times: 3
+	Query: "genus:Phyllomedusa specificepithet:rohdei" ; Times: 1
+	Query: "jahni" ; Times: 1
+	Query: "20991" ; Times: 1
+	Query: "genus:Phyllodytes specificepithet:luteolus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 10 (out of 1023 download events in this period)
+Total number of records downloaded: 3447
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-11 ; Times: 5
+	Date: 2020-02-19 ; Times: 1
+	Date: 2020-02-08 ; Times: 1
+	Date: 2020-02-27 ; Times: 1
+	Date: 2020-02-21 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Amphibia country:&#34;México&#34;" ; Times: 2
+	Query: "centrolenidae" ; Times: 1
+	Query: "class:Amphibia country:&#34;Peru&#34;" ; Times: 1
+	Query: "class:Amphibia country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Physalaemus erikae" ; Times: 1
+	Query: "Smilisca baudinii" ; Times: 2
+	Query: "class:amphibia stateprovince:&#34;minas gerais&#34;" ; Times: 1
+	Query: "Monachus" ; Times: 1
+
+
+End of report.
