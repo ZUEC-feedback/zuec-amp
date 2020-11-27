@@ -1,0 +1,164 @@
+Report for Institution Code ZUEC, Resource zuec-amp
+Usage stats for December 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 152
+Number of records retrieved in searches: 3321
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 121
+	Country: Netherlands ; Times: 3
+	Country: Myanmar ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 2
+	Country: United States ; Times: 10
+	Country: Germany ; Times: 3
+	Country: Peru ; Times: 1
+	Country: Japan ; Times: 1
+	Country: Russia ; Times: 3
+	Country: Ecuador ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-24 ; Times: 98
+	Date: 2019-12-04 ; Times: 1
+	Date: 2019-12-30 ; Times: 1
+	Date: 2019-12-03 ; Times: 4
+	Date: 2019-12-28 ; Times: 1
+	Date: 2019-12-18 ; Times: 10
+	Date: 2019-12-07 ; Times: 4
+	Date: 2019-12-06 ; Times: 2
+	Date: 2019-12-09 ; Times: 1
+	Date: 2019-12-08 ; Times: 2
+	Date: 2019-12-10 ; Times: 3
+	Date: 2019-12-11 ; Times: 7
+	Date: 2019-12-05 ; Times: 6
+	Date: 2019-12-13 ; Times: 6
+	Date: 2019-12-14 ; Times: 2
+	Date: 2019-12-16 ; Times: 2
+	Date: 2019-12-17 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Dendropsophus specificepithet:microps" ; Times: 1
+	Query: "genus:ameerega country:&#34;Bolivia&#34;" ; Times: 1
+	Query: "specificepithet:moreirae genus:Melanophryniscus" ; Times: 2
+	Query: "genus:Pseudis specificepithet:bolbodactyla" ; Times: 1
+	Query: "flectonotus" ; Times: 1
+	Query: "specificepithet:jimi genus:Rhinella" ; Times: 2
+	Query: "genus:Dendropsophus specificepithet:sanborni" ; Times: 2
+	Query: "specificepithet:senex genus:Atelopus" ; Times: 2
+	Query: "specificepithet:dorbignyi genus:Rhinella" ; Times: 2
+	Query: "genus:Ameerega specificepithet:braccata" ; Times: 1
+	Query: "specificepithet:leucomystax genus:Dendrophryniscus" ; Times: 2
+	Query: "Lithobates montezumae" ; Times: 1
+	Query: "genus:Ischnocnema specificepithet:nasuta" ; Times: 1
+	Query: "Dendropsophus riveroi" ; Times: 2
+	Query: "scientificname:Pristimantis acuminatus " ; Times: 1
+	Query: "specificepithet:stelzneri genus:Melanophryniscus" ; Times: 2
+	Query: "genus:Pipa specificepithet:carvalhoi" ; Times: 2
+	Query: "genus:Sphaenorhynchus specificepithet:surdus" ; Times: 1
+	Query: "specificepithet:guttatus genus:Rhaebo" ; Times: 2
+	Query: "specificepithet:pulcher genus:Atelopus" ; Times: 2
+	Query: "specificepithet:abei genus:Rhinella" ; Times: 2
+	Query: "genus:Leptodactylus specificepithet:furnarius" ; Times: 1
+	Query: "specificepithet:icterica genus:Rhinella" ; Times: 2
+	Query: "specificepithet:cruciger genus:Atelopus" ; Times: 2
+	Query: "specificepithet:japonicus genus:Bufo" ; Times: 2
+	Query: "specificepithet:dorsalis genus:Melanophryniscus" ; Times: 2
+	Query: "specificepithet:smithii genus:Tlalocohyla country:&#34;México&#34;" ; Times: 1
+	Query: "genus:Brachycephalus specificepithet:pitanga" ; Times: 1
+	Query: "specificepithet:bocourti genus:Incilius" ; Times: 2
+	Query: "genus:Pleurodema specificepithet:brachyops" ; Times: 2
+	Query: "Allobates brunneus mappable:1" ; Times: 1
+	Query: "specificepithet:chiriquiensis genus:Atelopus" ; Times: 2
+	Query: "Aromobates leopardalis" ; Times: 1
+	Query: "specificepithet:schneideri genus:Rhinella" ; Times: 2
+	Query: "genus:Itapotihyla specificepithet:langsdorffii" ; Times: 1
+	Query: "specificepithet:erythrophthalmus genus:Frostius" ; Times: 2
+	Query: "specificepithet:achalensis genus:Rhinella" ; Times: 2
+	Query: "genus:Rhinella specificepithet:ornata" ; Times: 3
+	Query: "trivittata" ; Times: 1
+	Query: "specificepithet:marmoreus genus:Incilius" ; Times: 2
+	Query: "Dendropsophus anceps" ; Times: 1
+	Query: "Limnomedusa" ; Times: 1
+	Query: "specificepithet:achavali genus:Rhinella" ; Times: 2
+	Query: "Trachycephalus coriaceus" ; Times: 1
+	Query: "specificepithet:calamita genus:Epidalea" ; Times: 2
+	Query: "specificepithet:castaneotica genus:Rhinella" ; Times: 2
+	Query: "specificepithet:rubescens genus:Rhinella" ; Times: 2
+	Query: "specificepithet:cambaraensis genus:Melanophryniscus" ; Times: 2
+	Query: "specificepithet:fernandezae genus:Rhinella" ; Times: 2
+	Query: "Phyllomedusa distincta" ; Times: 2
+	Query: "specificepithet:brevipollicatus genus:Dendrophryniscus" ; Times: 2
+	Query: "Pithecopus centralis mappable:1" ; Times: 1
+	Query: "specificepithet:granulosa genus:Rhinella" ; Times: 2
+	Query: "specificepithet:pombali genus:Rhinella" ; Times: 2
+	Query: "itapotihyla langsdorffii" ; Times: 2
+	Query: "specificepithet:mirandaribeiroi genus:Rhinella" ; Times: 2
+	Query: "specificepithet:acutirostris genus:Rhinella" ; Times: 2
+	Query: "specificepithet:coniferus genus:Incilius" ; Times: 2
+	Query: "Ololygon littoralis" ; Times: 1
+	Query: "genus:Rhinella specificepithet:rubescens" ; Times: 1
+	Query: "Proceratophrys boiei" ; Times: 1
+	Query: "specificepithet:crucifer genus:Rhinella" ; Times: 2
+	Query: "13110" ; Times: 1
+	Query: "specificepithet:arenarum genus:Rhinella" ; Times: 2
+	Query: "specificepithet:proboscidea genus:Rhinella" ; Times: 2
+	Query: "specificepithet:occidentalis genus:Incilius" ; Times: 2
+	Query: "specificepithet:atroluteus genus:Melanophryniscus" ; Times: 2
+	Query: "specificepithet:tumifrons genus:Melanophryniscus" ; Times: 2
+	Query: "genus:Ameerega specificepithet:picta" ; Times: 1
+	Query: "phyllomedusa tetraploidea" ; Times: 3
+	Query: "specificepithet:spumarius genus:Atelopus" ; Times: 2
+	Query: "genus:Leptodactylus specificepithet:plaumanni" ; Times: 1
+	Query: "specificepithet:hoogmoedi genus:Rhinella" ; Times: 2
+	Query: "genus:Elachistocleis specificepithet:matogrosso" ; Times: 1
+	Query: "genus:Pristimantis specificepithet:ginesi" ; Times: 1
+	Query: "Proceratophrys appendiculata" ; Times: 1
+	Query: "specificepithet:gargarizans genus:Bufo" ; Times: 2
+	Query: "specificepithet:hoogmoedi genus:Atelopus" ; Times: 2
+	Query: "specificepithet:pernambucensis genus:Frostius" ; Times: 2
+	Query: "Scinax nebulosus" ; Times: 2
+	Query: "specificepithet:major genus:Rhinella" ; Times: 2
+	Query: "specificepithet:ornata genus:Rhinella" ; Times: 2
+	Query: "specificepithet:ocellata genus:Rhinella" ; Times: 2
+	Query: "specificepithet:mucubajiensis genus:Atelopus" ; Times: 2
+	Query: "catalognumber:11366 institutioncode:ZUEC" ; Times: 1
+	Query: "genus:Flectonotus specificepithet:fissilis" ; Times: 1
+	Query: "specificepithet:fastidiosus genus:Incilius" ; Times: 2
+	Query: "specificepithet:fulvoguttatus genus:Melanophryniscus" ; Times: 2
+	Query: "Scinax squalirostris" ; Times: 1
+	Query: "specificepithet:humboldti genus:Rhinella" ; Times: 2
+	Query: "specificepithet:coriaceus genus:Trachycephalus" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 596 download events in this period)
+Total number of records downloaded: 485
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 1
+	Country: South Korea ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-10 ; Times: 4
+	Date: 2019-12-05 ; Times: 1
+	Date: 2019-12-02 ; Times: 1
+	Date: 2019-12-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Pleurodema specificepithet:brachyops" ; Times: 1
+	Query: "Lithobates catesbeianus" ; Times: 1
+	Query: "itapotihyla langsdorffii" ; Times: 1
+	Query: "lithobates catesbeianus" ; Times: 1
+	Query: "specificepithet:areolatus genus:Lithobates class:Amphibia" ; Times: 1
+	Query: "specificepithet:smithii genus:Tlalocohyla country:&#34;México&#34;" ; Times: 1
+	Query: "specificepithet:marmoreus genus:Incilius country:&#34;México&#34;" ; Times: 1
+
+
+End of report.
