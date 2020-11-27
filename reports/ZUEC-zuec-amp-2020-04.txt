@@ -1,0 +1,130 @@
+Report for Institution Code ZUEC, Resource zuec-amp
+Usage stats for April 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 193
+Number of records retrieved in searches: 6448
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 21
+	Country: United States ; Times: 15
+	Country: Romania ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 6
+	Country: United Kingdom ; Times: 142
+	Country: Peru ; Times: 2
+	Country: Argentina ; Times: 1
+	Country: Spain ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-04 ; Times: 2
+	Date: 2020-04-19 ; Times: 1
+	Date: 2020-04-18 ; Times: 3
+	Date: 2020-04-02 ; Times: 2
+	Date: 2020-04-07 ; Times: 53
+	Date: 2020-04-05 ; Times: 3
+	Date: 2020-04-25 ; Times: 1
+	Date: 2020-04-17 ; Times: 4
+	Date: 2020-04-16 ; Times: 6
+	Date: 2020-04-15 ; Times: 3
+	Date: 2020-04-14 ; Times: 2
+	Date: 2020-04-22 ; Times: 2
+	Date: 2020-04-30 ; Times: 1
+	Date: 2020-04-20 ; Times: 2
+	Date: 2020-04-21 ; Times: 73
+	Date: 2020-04-01 ; Times: 7
+	Date: 2020-04-24 ; Times: 1
+	Date: 2020-04-03 ; Times: 19
+	Date: 2020-04-06 ; Times: 1
+	Date: 2020-04-08 ; Times: 5
+	Date: 2020-04-09 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Rhinella schneideri" ; Times: 3
+	Query: "phrynopus peruanus" ; Times: 5
+	Query: "genus:Rhinella specificepithet:hoogmoedi" ; Times: 1
+	Query: "Rhinella ocellata" ; Times: 3
+	Query: "Rhinella granulosa" ; Times: 7
+	Query: "Siphonops paulensis" ; Times: 2
+	Query: "Eleutherodactylus erythroproctus" ; Times: 3
+	Query: "Physalaemus feioi" ; Times: 1
+	Query: "22916" ; Times: 1
+	Query: "Rhinella castaneotica" ; Times: 3
+	Query: "Osteocephalus taurinus" ; Times: 7
+	Query: "specificepithet:Ruschii" ; Times: 3
+	Query: "Scinax x-signatus" ; Times: 1
+	Query: "13890" ; Times: 2
+	Query: "genus:Allophryne specificepithet:ruthveni" ; Times: 1
+	Query: "Rhinella icterica" ; Times: 3
+	Query: "Ceratophrys joazeirensis" ; Times: 3
+	Query: "Tor tor" ; Times: 9
+	Query: "Physalaemus spiniger" ; Times: 3
+	Query: "Rhinella arenarum" ; Times: 3
+	Query: "genus:Proceratophrys specificepithet:schirchi" ; Times: 1
+	Query: "genus:Ameerega specificepithet:flavopicta" ; Times: 1
+	Query: "genus:Rhinella specificepithet:jimi" ; Times: 2
+	Query: "genus:Dendropsophus specificepithet:elianeae" ; Times: 1
+	Query: "Ameerega braccata" ; Times: 3
+	Query: "Incilius bocourti" ; Times: 2
+	Query: "Rhinella crucifer" ; Times: 3
+	Query: "vntype:specimen class:Amphibia institutioncode:ZUEC basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Rhinella rubescens" ; Times: 3
+	Query: "Ameerega picta" ; Times: 3
+	Query: "catalognumber:7347" ; Times: 1
+	Query: "genus:Leptodactylus specificepithet:knudseni" ; Times: 1
+	Query: "Osteocephalus leprieurii" ; Times: 3
+	Query: "Pithecopus hypochondrialis" ; Times: 1
+	Query: "Leptodactylus validus" ; Times: 2
+	Query: "Rhinella fernandezae" ; Times: 7
+	Query: "Osteocephalus oophagus" ; Times: 3
+	Query: "genus:Phyllomedusa specificepithet:distincta" ; Times: 1
+	Query: "Bufo gargarizans" ; Times: 10
+	Query: "Ameerega hahneli" ; Times: 3
+	Query: "Rhinella dorbignyi" ; Times: 4
+	Query: "Rhinella major" ; Times: 4
+	Query: "Lithobates palmipes" ; Times: 8
+	Query: "Ameerega parvula" ; Times: 3
+	Query: "Rhinella ornata" ; Times: 10
+	Query: "genus:Hyla specificepithet:plicata" ; Times: 1
+	Query: "genus:Scinax specificepithet:acuminatus" ; Times: 1
+	Query: "Ambystoma mexicanum" ; Times: 1
+	Query: "vntype:specimen institutioncode:ZUEC basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Lithodytes lineatus" ; Times: 4
+	Query: "Proceratophrys melanopogon" ; Times: 10
+	Query: "Rhinella cf. margaritifera" ; Times: 10
+	Query: "catalognumber:6129" ; Times: 1
+	Query: "specificepithet:patagonicus genus:Atelognathus class:Amphibia" ; Times: 1
+	Query: "genus:Scinax specificepithet:x-signatus" ; Times: 1
+	Query: "specificepithet:carnevallii genus:Ololygon" ; Times: 2
+	Query: "(ameerega picta)" ; Times: 1
+	Query: "Chthonerpeton indistinctum" ; Times: 3
+	Query: "Bufo japonicus" ; Times: 10
+	Query: "Pithecopus ayeaye" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 5 (out of 1171 download events in this period)
+Total number of records downloaded: 497
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-29 ; Times: 2
+	Date: 2020-04-01 ; Times: 1
+	Date: 2020-04-15 ; Times: 1
+	Date: 2020-04-18 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Anaxyrus boreas" ; Times: 1
+	Query: "Salamandra salamandra" ; Times: 1
+	Query: "ameerega" ; Times: 1
+	Query: "Eleutherodactylus" ; Times: 1
+	Query: "(ameerega picta)" ; Times: 1
+
+
+End of report.
