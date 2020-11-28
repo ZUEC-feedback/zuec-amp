@@ -1,0 +1,65 @@
+Report for Institution Code ZUEC, Resource zuec-amp
+Usage stats for June 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 19
+Number of records retrieved in searches: 303
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 7
+	Country: Colombia ; Times: 5
+	Country: Mexico ; Times: 1
+	Country: Denmark ; Times: 1
+	Country: Finland ; Times: 1
+	Country: United States ; Times: 2
+	Country: Peru ; Times: 1
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-09 ; Times: 2
+	Date: 2020-06-06 ; Times: 1
+	Date: 2020-06-07 ; Times: 2
+	Date: 2020-06-04 ; Times: 6
+	Date: 2020-06-10 ; Times: 4
+	Date: 2020-06-03 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "oophaga histrionica" ; Times: 5
+	Query: "Leptodactylus natalensis" ; Times: 1
+	Query: "Incilius fastidiosus" ; Times: 1
+	Query: "Ptychohyla acrochorda" ; Times: 1
+	Query: "genus:Vitreorana specificepithet:parvula" ; Times: 1
+	Query: "Allobates marchesianus" ; Times: 1
+	Query: "genus:Bokermannohyla specificepithet:circumdata" ; Times: 1
+	Query: "Scinax tymbamirim" ; Times: 2
+	Query: "catalognumber:4018" ; Times: 1
+	Query: "Siphonops" ; Times: 1
+	Query: "catalognumber: 3742" ; Times: 1
+	Query: "Dendropsophus meridianus" ; Times: 1
+	Query: "Vitreorana parvula" ; Times: 1
+	Query: "genus:Ameerega specificepithet:hahneli" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 474 download events in this period)
+Total number of records downloaded: 218
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-09 ; Times: 2
+	Date: 2020-06-05 ; Times: 1
+	Date: 2020-06-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:truei genus:Ascaphus" ; Times: 1
+	Query: "genus:spea stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "Lithobates catesbeianus" ; Times: 1
+	Query: "genus:scaphiopus stateprovince:&#34;oklahoma&#34;" ; Times: 1
+
+
+End of report.
