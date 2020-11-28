@@ -1,0 +1,171 @@
+Report for Institution Code ZUEC, Resource zuec-amp
+Usage stats for October 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 266
+Number of records retrieved in searches: 12845
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 156
+	Country: Peru ; Times: 2
+	Country: Mexico ; Times: 17
+	Country: Unknown ; Times: 20
+	Country: France ; Times: 2
+	Country: United States ; Times: 21
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Denmark ; Times: 1
+	Country: Paraguay ; Times: 40
+	Country: Spain ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-09 ; Times: 2
+	Date: 2020-10-18 ; Times: 6
+	Date: 2020-10-19 ; Times: 11
+	Date: 2020-10-12 ; Times: 3
+	Date: 2020-10-13 ; Times: 7
+	Date: 2020-10-10 ; Times: 3
+	Date: 2020-10-11 ; Times: 1
+	Date: 2020-10-16 ; Times: 15
+	Date: 2020-10-31 ; Times: 1
+	Date: 2020-10-14 ; Times: 6
+	Date: 2020-10-15 ; Times: 17
+	Date: 2020-10-28 ; Times: 5
+	Date: 2020-10-23 ; Times: 3
+	Date: 2020-10-08 ; Times: 10
+	Date: 2020-10-20 ; Times: 23
+	Date: 2020-10-27 ; Times: 3
+	Date: 2020-10-26 ; Times: 1
+	Date: 2020-10-24 ; Times: 1
+	Date: 2020-10-30 ; Times: 13
+	Date: 2020-10-29 ; Times: 10
+	Date: 2020-10-02 ; Times: 22
+	Date: 2020-10-05 ; Times: 2
+	Date: 2020-10-04 ; Times: 1
+	Date: 2020-10-07 ; Times: 99
+	Date: 2020-10-06 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Melanophryniscus specificepithet:dorsalis" ; Times: 1
+	Query: "mappable:1 scientificname:Proceratophrys boiei" ; Times: 4
+	Query: "vitreorana" ; Times: 9
+	Query: "barreiro rico" ; Times: 1
+	Query: "Melanophryniscus atroluteus" ; Times: 1
+	Query: "franciscanus" ; Times: 1
+	Query: "Dendropsophus jimi" ; Times: 1
+	Query: "catalognumber:16891" ; Times: 1
+	Query: "Proceratophrys avelinoi" ; Times: 1
+	Query: "genus:Dendropsophus specificepithet:koechlini" ; Times: 1
+	Query: "Pseudopaludicola boliviana" ; Times: 1
+	Query: "Adenomera diptyx" ; Times: 2
+	Query: "Chiasmocleis albopunctata" ; Times: 4
+	Query: "genus:Ameerega specificepithet:picta" ; Times: 3
+	Query: "mappable:1 scientificname:Macrogenioglottus alipioi" ; Times: 4
+	Query: "Siphonops paulensis" ; Times: 1
+	Query: "adenomera diptyx" ; Times: 1
+	Query: "genus:Scarthyla specificepithet:vigilans" ; Times: 1
+	Query: "Scinax similis" ; Times: 1
+	Query: "Charadrahyla taeniopus" ; Times: 4
+	Query: "Rhinella major" ; Times: 2
+	Query: "genus:Aplastodiscus" ; Times: 1
+	Query: "Dendropsophus melanargyreus" ; Times: 2
+	Query: "Phyllomedusa distincta" ; Times: 1
+	Query: "genus:Pristimantis specificepithet:ginesi" ; Times: 1
+	Query: "Pseudopaludicola ameghini" ; Times: 2
+	Query: "mappable:1 scientificname:Haddadus binotatus" ; Times: 122
+	Query: "mappable:1 scientificname:Myersiella microps" ; Times: 4
+	Query: "caingua" ; Times: 1
+	Query: "Chthonerpeton indistinctum" ; Times: 2
+	Query: "Allophrynidae" ; Times: 2
+	Query: "Itapotihyla langsdorffii" ; Times: 2
+	Query: "Scarthyla goinorum" ; Times: 3
+	Query: "Physalaemus riograndensis" ; Times: 1
+	Query: "genus:Osteocephalus specificepithet:leprieurii" ; Times: 1
+	Query: "catalognumber:19887" ; Times: 1
+	Query: "Ololygon berthae" ; Times: 2
+	Query: "genus:Ischnocnema specificepithet:henselii" ; Times: 2
+	Query: "mappable:1 scientificname:Vitreorana eurygnatha" ; Times: 3
+	Query: "Pithecopus" ; Times: 1
+	Query: "Rhinella acutirostris" ; Times: 1
+	Query: "genus:Barycholos specificepithet:ternetzi" ; Times: 1
+	Query: "Physalaemus nattereri" ; Times: 1
+	Query: "genus:Fritziana specificepithet:goeldii" ; Times: 1
+	Query: "catalognumber:20347" ; Times: 1
+	Query: "Adenomera thomei" ; Times: 1
+	Query: "SUI" ; Times: 1
+	Query: "Incilius occidentalis" ; Times: 1
+	Query: "genus:Rhinella specificepithet:ornata" ; Times: 1
+	Query: "genus:Proceratophrys specificepithet:avelinoi" ; Times: 1
+	Query: "Rhinella ocellata" ; Times: 20
+	Query: "genus:Pseudis specificepithet:minuta" ; Times: 1
+	Query: "genus:Rhinella specificepithet:jimi" ; Times: 1
+	Query: "genus:Phyllomedusa specificepithet:burmeisteri" ; Times: 1
+	Query: "Physalaemus centralis" ; Times: 3
+	Query: "mappable:1 scientificname:Vitreorana uranoscopa" ; Times: 3
+	Query: "Hyla plicata" ; Times: 1
+	Query: "Leptodactylus syphax" ; Times: 1
+	Query: "&#34;Dendropsophus elianeae&#34;" ; Times: 1
+	Query: "Dendropsophus elianeae" ; Times: 2
+	Query: "Ambystoma mexicanum" ; Times: 2
+	Query: "Physalaemus santafecinus" ; Times: 1
+	Query: "genus:Phasmahyla" ; Times: 1
+	Query: "Scinax squalirostris" ; Times: 1
+	Query: "Physalaemus marmoratus" ; Times: 1
+	Query: "Hypopachus ustus" ; Times: 4
+	Query: "Scinax acuminatus" ; Times: 1
+	Query: "Engystomops pustulosus" ; Times: 6
+	Query: "specificepithet:goinorum genus:Scarthyla country:&#34;Brasil&#34;" ; Times: 1
+	Query: "Physalaemus cicada" ; Times: 1
+	Query: "&#34;Pseudopaludicola ameghini&#34;" ; Times: 4
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 52 (out of 1521 download events in this period)
+Total number of records downloaded: 923
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+	Country: Brazil ; Times: 7
+	Country: Mexico ; Times: 36
+	Country: Spain ; Times: 1
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-09 ; Times: 2
+	Date: 2020-10-22 ; Times: 25
+	Date: 2020-10-10 ; Times: 3
+	Date: 2020-10-25 ; Times: 2
+	Date: 2020-10-13 ; Times: 5
+	Date: 2020-10-03 ; Times: 1
+	Date: 2020-10-28 ; Times: 5
+	Date: 2020-10-05 ; Times: 3
+	Date: 2020-10-07 ; Times: 1
+	Date: 2020-10-06 ; Times: 1
+	Date: 2020-10-23 ; Times: 2
+	Date: 2020-10-15 ; Times: 1
+	Date: 2020-10-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "spea bombifrons" ; Times: 1
+	Query: "barreiro rico" ; Times: 3
+	Query: "Centrolenidae" ; Times: 1
+	Query: "Adenomera" ; Times: 1
+	Query: "genus:gastrophryne stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "vitreorana" ; Times: 1
+	Query: "ECNOMIOHYLA MIOTYMPANUM" ; Times: 1
+	Query: "spea multiplicata" ; Times: 1
+	Query: "Ambystoma mexicanum" ; Times: 5
+	Query: "Rhinella ocellata" ; Times: 1
+	Query: "genus:Phasmahyla" ; Times: 1
+	Query: "ecnomiohyla miotympanum" ; Times: 1
+	Query: "plethodon vehiculum" ; Times: 1
+	Query: "Scaphiopus holbrookii" ; Times: 1
+	Query: "Ecnomiohyla miotympanum" ; Times: 30
+	Query: "genus:Aplastodiscus" ; Times: 1
+	Query: "&#34;Pseudopaludicola ameghini&#34;" ; Times: 1
+
+
+End of report.
