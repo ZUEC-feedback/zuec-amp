@@ -1,0 +1,121 @@
+Report for Institution Code ZUEC, Resource zuec-amp
+Usage stats for September 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 195
+Number of records retrieved in searches: 6956
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 18
+	Country: United Kingdom ; Times: 3
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 41
+	Country: Costa Rica ; Times: 1
+	Country: United States ; Times: 78
+	Country: Thailand ; Times: 1
+	Country: Argentina ; Times: 49
+	Country: Hong Kong ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-15 ; Times: 1
+	Date: 2020-09-16 ; Times: 7
+	Date: 2020-09-22 ; Times: 2
+	Date: 2020-09-10 ; Times: 3
+	Date: 2020-09-11 ; Times: 57
+	Date: 2020-09-12 ; Times: 1
+	Date: 2020-09-13 ; Times: 2
+	Date: 2020-09-29 ; Times: 3
+	Date: 2020-09-28 ; Times: 1
+	Date: 2020-09-18 ; Times: 49
+	Date: 2020-09-30 ; Times: 50
+	Date: 2020-09-09 ; Times: 1
+	Date: 2020-09-08 ; Times: 1
+	Date: 2020-09-03 ; Times: 1
+	Date: 2020-09-02 ; Times: 2
+	Date: 2020-09-01 ; Times: 1
+	Date: 2020-09-23 ; Times: 2
+	Date: 2020-09-05 ; Times: 5
+	Date: 2020-09-24 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "mappable:1 scientificname:Proceratophrys boiei" ; Times: 19
+	Query: "genus:Scinax specificepithet:curicica" ; Times: 1
+	Query: "mappable:1 scientificname:Pithecopus azureus" ; Times: 2
+	Query: "mappable:1 scientificname:Leptodactylus latrans" ; Times: 3
+	Query: "Ololygon peixotoi" ; Times: 1
+	Query: "Phyllomedusa bicolor" ; Times: 1
+	Query: "mappable:1 scientificname:Myersiella microps" ; Times: 19
+	Query: "catalognumber:18076" ; Times: 1
+	Query: "mappable:1 scientificname:Leptodactylus chaquensis" ; Times: 3
+	Query: "genus:Bufo specificepithet:japonicus" ; Times: 2
+	Query: "genus:Trachycephalus specificepithet:resinifictrix" ; Times: 1
+	Query: "botucatu" ; Times: 1
+	Query: "mappable:1 scientificname:Scinax nasicus" ; Times: 2
+	Query: "mappable:1 scientificname:Trachycephalus typhonius" ; Times: 2
+	Query: "mappable:1 scientificname:Haddadus binotatus" ; Times: 19
+	Query: "genus:Hyla specificepithet:plicata" ; Times: 1
+	Query: "mappable:1 scientificname:Scinax acuminatus" ; Times: 2
+	Query: "Allophryne ruthveni" ; Times: 1
+	Query: "catalognumber:5339" ; Times: 1
+	Query: "vitreorana" ; Times: 5
+	Query: "genus:Ameerega specificepithet:flavopicta" ; Times: 1
+	Query: "mappable:1 scientificname:Leptodactylus bufonius" ; Times: 3
+	Query: "genus:Scinax specificepithet:eurydice" ; Times: 1
+	Query: "piracicaba" ; Times: 1
+	Query: "genus:Aplastodiscus specificepithet:arildae" ; Times: 1
+	Query: "mappable:1 scientificname:Elachistocleis bicolor" ; Times: 3
+	Query: "ZUEC 2748" ; Times: 1
+	Query: "mappable:1 scientificname:Leptodactylus latinasus" ; Times: 3
+	Query: "catalognumber:10122" ; Times: 1
+	Query: "mappable:1 scientificname:Dermatonotus muelleri" ; Times: 3
+	Query: "distance(location,geopoint(-31.01467057790442,-51.15260722384538))&lt;100000" ; Times: 1
+	Query: "mappable:1 scientificname:Leptodactylus gracilis" ; Times: 3
+	Query: "genus:Zachaenus specificepithet:parvulus" ; Times: 1
+	Query: "mappable:1 scientificname:Leptodactylus fuscus" ; Times: 6
+	Query: "mappable:1 scientificname:Leptodactylus mystacinus" ; Times: 2
+	Query: "catalognumber:5848" ; Times: 1
+	Query: "catalognumber:17167" ; Times: 1
+	Query: "mappable:1 scientificname:Macrogenioglottus alipioi" ; Times: 19
+	Query: "genus:Vitreorana specificepithet:eurygnatha" ; Times: 1
+	Query: "mappable:1 scientificname:Vitreorana uranoscopa" ; Times: 18
+	Query: "mappable:1 scientificname:Dendropsophus nanus" ; Times: 3
+	Query: "genus:Dendrobates specificepithet:tinctorius" ; Times: 1
+	Query: "genus:Adelphobates specificepithet:galactonotus" ; Times: 3
+	Query: "Proceratophrys schirchi" ; Times: 1
+	Query: "mappable:1 scientificname:Pseudis platensis" ; Times: 2
+	Query: "mappable:1 scientificname:Vitreorana eurygnatha" ; Times: 19
+	Query: "mappable:1 scientificname:Physalaemus biligonigerus" ; Times: 2
+	Query: "mappable:1 scientificname:Hypsiboas raniceps" ; Times: 3
+	Query: "mappable:1 scientificname:Rhinella major" ; Times: 2
+	Query: "genus:Scinax specificepithet:tymbamirim" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 9 (out of 976 download events in this period)
+Total number of records downloaded: 6473
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 1
+	Country: Panama ; Times: 2
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-14 ; Times: 4
+	Date: 2020-09-15 ; Times: 2
+	Date: 2020-09-03 ; Times: 1
+	Date: 2020-09-24 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "leptodactylidae" ; Times: 1
+	Query: "Smilisca fodiens México" ; Times: 4
+	Query: "curacao" ; Times: 2
+	Query: "atelopus senex" ; Times: 1
+	Query: "Proceratophrys" ; Times: 1
+
+
+End of report.
