@@ -1,0 +1,160 @@
+Report for Institution Code ZUEC, Resource zuec-amp
+Usage stats for July 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 78
+Number of records retrieved in searches: 1095
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 13
+	Country: Canada ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 8
+	Country: Unknown ; Times: 13
+	Country: United States ; Times: 24
+	Country: Germany ; Times: 2
+	Country: Spain ; Times: 7
+	Country: Peru ; Times: 3
+	Country: Japan ; Times: 1
+	Country: French Guiana ; Times: 1
+	Country: Argentina ; Times: 2
+	Country: Bolivia ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-09 ; Times: 2
+	Date: 2020-07-08 ; Times: 1
+	Date: 2020-07-18 ; Times: 3
+	Date: 2020-07-02 ; Times: 16
+	Date: 2020-07-27 ; Times: 3
+	Date: 2020-07-25 ; Times: 2
+	Date: 2020-07-24 ; Times: 3
+	Date: 2020-07-30 ; Times: 4
+	Date: 2020-07-13 ; Times: 1
+	Date: 2020-07-03 ; Times: 8
+	Date: 2020-07-11 ; Times: 1
+	Date: 2020-07-16 ; Times: 5
+	Date: 2020-07-21 ; Times: 2
+	Date: 2020-07-07 ; Times: 1
+	Date: 2020-07-04 ; Times: 2
+	Date: 2020-07-23 ; Times: 3
+	Date: 2020-07-20 ; Times: 5
+	Date: 2020-07-31 ; Times: 2
+	Date: 2020-07-28 ; Times: 7
+	Date: 2020-07-29 ; Times: 5
+	Date: 2020-07-17 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Cycloramphus asper" ; Times: 1
+	Query: "Vitreorana eurygnatha mappable:1" ; Times: 2
+	Query: "genus:Leptodactylus specificepithet:macrosternum" ; Times: 1
+	Query: "genus:Rhinella specificepithet:castaneotica" ; Times: 1
+	Query: "Proceratophrys boiei mappable:1" ; Times: 2
+	Query: "genus:Leptodactylus specificepithet:natalensis" ; Times: 1
+	Query: "genus:Siphonops specificepithet:annulatus" ; Times: 2
+	Query: "Phyllomedusa bicolor" ; Times: 1
+	Query: "catalognumber:7478" ; Times: 1
+	Query: "genus:Dendropsophus specificepithet:oliveirai" ; Times: 1
+	Query: "providencia brazil" ; Times: 1
+	Query: "Vitreorana parvula" ; Times: 1
+	Query: "genus:probreviceps" ; Times: 1
+	Query: "Xenohyla truncata" ; Times: 1
+	Query: "genus:Rhinella specificepithet:ornata" ; Times: 1
+	Query: "diehl" ; Times: 1
+	Query: "Rio Surumu" ; Times: 3
+	Query: "ameerega trivittata" ; Times: 2
+	Query: "Eleutherodactylus limbatus" ; Times: 2
+	Query: "genus:Ceratophrys specificepithet:aurita" ; Times: 2
+	Query: "Aromobates orostoma" ; Times: 2
+	Query: "class:Amphibia &#34;Eleutherodactylus erythroproctus&#34;" ; Times: 1
+	Query: "Dendropsophus brevifrons" ; Times: 1
+	Query: "Vitreorana uranoscopa mappable:1" ; Times: 2
+	Query: "Macrogenioglottus alipioi mappable:1" ; Times: 2
+	Query: "13222" ; Times: 1
+	Query: "zabele" ; Times: 1
+	Query: "Lithobates montezumae" ; Times: 1
+	Query: "Jaguar" ; Times: 1
+	Query: "Elachistocleis" ; Times: 1
+	Query: "Haddadus binotatus mappable:1" ; Times: 2
+	Query: "Myersiella microps mappable:1" ; Times: 2
+	Query: "genus:Pseudopaludicola specificepithet:pocoto" ; Times: 1
+	Query: "Leptodactylus labyrinthicus" ; Times: 1
+	Query: "Pelophylax nigromaculatus" ; Times: 1
+	Query: "genus:Brachycephalus specificepithet:pernix" ; Times: 1
+	Query: "&#34;Eleutherodactylus limbatus&#34;" ; Times: 5
+	Query: "eleutherodactylus johnstonei mappable:1" ; Times: 1
+	Query: "hemiphractus fasciatus" ; Times: 1
+	Query: "Bocá brasil" ; Times: 1
+	Query: "Plethodon vehiculum" ; Times: 1
+	Query: "molinarii" ; Times: 1
+	Query: "genus:Scinax specificepithet:tymbamirim" ; Times: 1
+	Query: "Boca Amazonas Brasil" ; Times: 2
+	Query: "Cycloramphus ohausi" ; Times: 1
+	Query: "13459" ; Times: 1
+	Query: "Pithecopus ayeaye" ; Times: 1
+	Query: "genus:Adelphobates specificepithet:galactonotus" ; Times: 2
+	Query: "specificepithet:fastidiosus family:bufonidae" ; Times: 1
+	Query: "Bolitoglossa adspersa" ; Times: 5
+	Query: "catalognumber:2201 year &gt;= 1932" ; Times: 1
+	Query: "catalognumber:16553" ; Times: 1
+	Query: "specificepithet:cycladen family:bufonidae" ; Times: 1
+	Query: "Pseudoeurycea altamontana" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 28 (out of 940 download events in this period)
+Total number of records downloaded: 447
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 17
+	Country: Guatemala ; Times: 1
+	Country: Spain ; Times: 4
+	Country: Mexico ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-08 ; Times: 2
+	Date: 2020-07-19 ; Times: 1
+	Date: 2020-07-27 ; Times: 3
+	Date: 2020-07-25 ; Times: 1
+	Date: 2020-07-24 ; Times: 1
+	Date: 2020-07-03 ; Times: 4
+	Date: 2020-07-02 ; Times: 3
+	Date: 2020-07-16 ; Times: 1
+	Date: 2020-07-31 ; Times: 8
+	Date: 2020-07-14 ; Times: 1
+	Date: 2020-07-06 ; Times: 2
+	Date: 2020-07-07 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:coccifer family:bufonidae" ; Times: 1
+	Query: "genus:Euproctus" ; Times: 1
+	Query: "genus:Incilius" ; Times: 1
+	Query: "class:Amphibia country:&#34;Argentina&#34;" ; Times: 1
+	Query: "specificepithet:marmoreus family:bufonidae" ; Times: 1
+	Query: "Smilisca baudinii" ; Times: 1
+	Query: "specificepithet:coniferus family:bufonidae" ; Times: 1
+	Query: "Plethodon vehiculum" ; Times: 1
+	Query: "class:Amphibia country:&#34;Peru&#34;" ; Times: 2
+	Query: "class:Amphibia country:&#34;Colombia&#34;" ; Times: 1
+	Query: "spea multiplicata" ; Times: 1
+	Query: "class:Amphibia &#34;Eleutherodactylus erythroproctus&#34;" ; Times: 1
+	Query: "class:Amphibia country:&#34;Bolivia&#34;" ; Times: 1
+	Query: "specificepithet:melanonotus genus:Leptodactylus" ; Times: 1
+	Query: "Elachistocleis" ; Times: 1
+	Query: "Gastrotheca marsupiata" ; Times: 1
+	Query: "&#34;Eleutherodactylus limbatus&#34;" ; Times: 2
+	Query: "specificepithet:bocourti family:bufonidae" ; Times: 1
+	Query: "class:Amphibia &#34;Eleutherodactylus limbatus&#34;" ; Times: 1
+	Query: "genus:Atelopus country:&#34;Panama&#34;" ; Times: 1
+	Query: "Eleutherodactylus limbatus" ; Times: 1
+	Query: "specificepithet:fastidiosus family:bufonidae" ; Times: 1
+	Query: "rhinella marina" ; Times: 1
+	Query: "class:Amphibia country:&#34;Guatemala&#34;" ; Times: 1
+	Query: "specificepithet:cycladen family:bufonidae" ; Times: 1
+	Query: "specificepithet:occidentalis family:bufonidae" ; Times: 1
+
+
+End of report.
