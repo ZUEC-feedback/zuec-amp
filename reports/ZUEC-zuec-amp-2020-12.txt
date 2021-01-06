@@ -1,0 +1,160 @@
+Report for Institution Code ZUEC, Resource zuec-amp
+Usage stats for December 2020, generated on 2021/01/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 100
+Number of records retrieved in searches: 2408
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 13
+	Country: United States ; Times: 7
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 9
+	Country: Indonesia ; Times: 1
+	Country: United Kingdom ; Times: 35
+	Country: Austria ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 22
+	Country: Belgium ; Times: 7
+	Country: Argentina ; Times: 1
+	Country: Bolivia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-04 ; Times: 6
+	Date: 2020-12-20 ; Times: 23
+	Date: 2020-12-23 ; Times: 3
+	Date: 2020-12-31 ; Times: 2
+	Date: 2020-12-12 ; Times: 6
+	Date: 2020-12-03 ; Times: 13
+	Date: 2020-12-18 ; Times: 1
+	Date: 2020-12-19 ; Times: 2
+	Date: 2020-12-09 ; Times: 1
+	Date: 2020-12-10 ; Times: 8
+	Date: 2020-12-11 ; Times: 16
+	Date: 2020-12-05 ; Times: 2
+	Date: 2020-12-13 ; Times: 1
+	Date: 2020-12-14 ; Times: 11
+	Date: 2020-12-15 ; Times: 3
+	Date: 2020-12-01 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "hypsiboas pulchellus" ; Times: 1
+	Query: "Proceratophrys renalis" ; Times: 2
+	Query: "Pseudopaludicola serrana" ; Times: 1
+	Query: "genus:Rhinella specificepithet:castaneotica" ; Times: 1
+	Query: "ceratophrys 8024" ; Times: 1
+	Query: "genus:Barycholos" ; Times: 2
+	Query: "genus:Siphonops specificepithet:annulatus" ; Times: 1
+	Query: "Scinax rostratus" ; Times: 1
+	Query: "Rhinella ocellata" ; Times: 1
+	Query: "Pithecopus rohdei" ; Times: 1
+	Query: "Proceratophrys bigibbosa" ; Times: 1
+	Query: "catalognumber:3433 institutioncode:ZUEC" ; Times: 1
+	Query: "ceratophrys 3801" ; Times: 1
+	Query: "Pithecopus palliatus" ; Times: 1
+	Query: "catalognumber:9968 institutioncode:ZUEC" ; Times: 3
+	Query: "Rhinella mirandaribeiroi" ; Times: 1
+	Query: "Rhinella castaneotica" ; Times: 1
+	Query: "Rhinella icterica" ; Times: 3
+	Query: "catalognumber:14670 institutioncode:ZUEC" ; Times: 3
+	Query: "catalognumber:14669 institutioncode:ZUEC" ; Times: 3
+	Query: "genus:Ceratophrys specificepithet:joazeirensis" ; Times: 1
+	Query: "genus:Leptodactylus specificepithet:vastus" ; Times: 1
+	Query: "catalognumber:14165 institutioncode:ZUEC" ; Times: 2
+	Query: "catalognumber:14667 institutioncode:ZUEC" ; Times: 2
+	Query: "Sphaenorhynchus surdus" ; Times: 1
+	Query: "Allophrynidae" ; Times: 1
+	Query: "genus:Thoropa specificepithet:taophora" ; Times: 1
+	Query: "catalognumber:14164 institutioncode:ZUEC" ; Times: 2
+	Query: "Rhinella arenarum" ; Times: 1
+	Query: "Osteocephalus alboguttatus" ; Times: 1
+	Query: "genus:Osteocephalus specificepithet:subtilis" ; Times: 1
+	Query: "Ptychohyla spinipollex" ; Times: 1
+	Query: "genus:Ameerega specificepithet:flavopicta" ; Times: 1
+	Query: "Rhinella dorbignyi" ; Times: 2
+	Query: "catalognumber:12053 institutioncode:ZUEC" ; Times: 3
+	Query: "Rhinella crucifer" ; Times: 1
+	Query: "Rhinella cf. margaritifera" ; Times: 1
+	Query: "Vitreorana uranoscopa" ; Times: 1
+	Query: "Rhinella schneideri" ; Times: 1
+	Query: "Rhinella granulosa" ; Times: 1
+	Query: "genus:Barycholos specificepithet:ternetzi" ; Times: 1
+	Query: "Scarthyla vigilans" ; Times: 1
+	Query: "Pseudopaludicola murundu" ; Times: 1
+	Query: "Leptodactylus podicipinus" ; Times: 1
+	Query: "Pithecopus nordestinus" ; Times: 2
+	Query: "ceratophrys 9534" ; Times: 1
+	Query: "ceratophrys 3623" ; Times: 1
+	Query: "catalognumber:14162 institutioncode:ZUEC" ; Times: 2
+	Query: "genus:Phyllomedusa specificepithet:bicolor" ; Times: 1
+	Query: "12995" ; Times: 1
+	Query: "genus:Leptodactylus specificepithet:macrosternum" ; Times: 1
+	Query: "Physalaemus erikae" ; Times: 1
+	Query: "ceratophrys 9141" ; Times: 1
+	Query: "catalognumber:13503 institutioncode:ZUEC" ; Times: 2
+	Query: "Rhinella humboldti" ; Times: 1
+	Query: "genus:Ranitomeya specificepithet:ventrimaculata" ; Times: 1
+	Query: "Pseudis paradoxa" ; Times: 1
+	Query: "ceratophrys 10636" ; Times: 1
+	Query: "rhinella castaneotica" ; Times: 2
+	Query: "genus:Phyllomedusa specificepithet:bahiana" ; Times: 2
+	Query: "ceratophrys 11013" ; Times: 1
+	Query: "jaguar" ; Times: 2
+	Query: "Rhinella ornata" ; Times: 1
+	Query: "genus:Dendrobates specificepithet:tinctorius" ; Times: 2
+	Query: "Leptodactylus notoaktites" ; Times: 1
+	Query: "catalognumber:17258" ; Times: 1
+	Query: "Physalaemus spiniger" ; Times: 1
+	Query: "Leptodactylus sabanensis" ; Times: 1
+	Query: "Leptodactylus chaquensis" ; Times: 1
+	Query: "Scinax trapicheiroi" ; Times: 1
+	Query: "Proceratophrys melanopogon" ; Times: 2
+	Query: "Rhinella rubescens" ; Times: 1
+	Query: "Rhinella fernandezae" ; Times: 2
+	Query: "Leptodactylus jolyi" ; Times: 1
+	Query: "11296" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 22 (out of 705 download events in this period)
+Total number of records downloaded: 1175
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: Unknown ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Spain ; Times: 4
+	Country: Colombia ; Times: 13
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-10 ; Times: 1
+	Date: 2020-12-12 ; Times: 13
+	Date: 2020-12-13 ; Times: 1
+	Date: 2020-12-03 ; Times: 1
+	Date: 2020-12-02 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "Pseudis paradoxa" ; Times: 1
+	Query: "Engystomops pustulosus" ; Times: 1
+	Query: "Scarthyla vigilans" ; Times: 1
+	Query: "hypsiboas pulchellus" ; Times: 1
+	Query: "plethodon glutinosus" ; Times: 2
+	Query: "Dendropsophus microcephalus" ; Times: 2
+	Query: "Scinax ruber" ; Times: 1
+	Query: "Discoglossus pictus" ; Times: 1
+	Query: "genus:Thoropa specificepithet:taophora" ; Times: 1
+	Query: "Scinax rostratus" ; Times: 2
+	Query: "Leptodactylus poecilochilus" ; Times: 1
+	Query: "Pelobates cultripes" ; Times: 1
+	Query: "Leptodactylus fuscus" ; Times: 1
+	Query: "Salamandra salamandra" ; Times: 2
+	Query: "Hyla meridionalis" ; Times: 1
+	Query: "Pleurodema brachyops" ; Times: 1
+	Query: "Rhinella humboldti" ; Times: 1
+	Query: "Trachycephalus typhonius" ; Times: 1
+
+
+End of report.
